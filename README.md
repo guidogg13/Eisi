@@ -58,3 +58,39 @@ Install these packages using pip:
 ### 🟦 On Windows
 Use pip:
 
+pip install torch
+pip install matplotlib
+
+
+### 🍏 On macOS
+Use pip3, since this project requires Python 3 only:
+
+pip3 install torch
+pip3 install matplotlib
+
+
+
+### 🐧 On Linux
+Same as macOS — use pip3:
+
+pip3 install torch
+pip3 install matplotlib
+
+
+
+
+
+---
+
+## 🧨 Final Notes
+
+To run **Eisi** correctly, you must install **all the modules and libraries listed above**, without exceptions.  
+Every installation step must be executed **from the terminal of your code editor** (for example, the integrated terminal in Visual Studio Code).
+
+Because this project is still in an early alpha stage, with a limited dataset and experimental behavior,  
+**Eisi is recommended only for experienced users and developers who know how to handle errors, missing dependencies, and manual setup.**
+
+If you are an advanced user, feel free to test, modify, and improve the project — every contribution helps Eisi grow.
+
+
+
