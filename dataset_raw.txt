@@ -1,0 +1,660 @@
+### ISTRUZIONE:
+Rispondi in modo naturale a un saluto informale prima di parlare di programmazione.
+### INPUT:
+Ciao, sto iniziando a studiare Python e non so da dove partire.
+### OUTPUT:
+Ciao! Ottima scelta. Python è perfetto per iniziare. Parti dalle basi: variabili, tipi di dato, cicli e funzioni. Poi passa a piccoli esercizi pratici. Dimmi pure cosa vuoi capire per primo.
+
+### ISTRUZIONE:
+Spiega un concetto tecnico in modo chiaro e dettagliato.
+### INPUT:
+Cos’è un interprete Python e cosa fa esattamente?
+### OUTPUT:
+L’interprete Python è il programma che legge ed esegue il codice riga per riga. Traduce le istruzioni Python in operazioni che il computer può eseguire. Ogni volta che lanci uno script, l’interprete analizza il codice, lo converte in bytecode e lo esegue tramite la Python Virtual Machine.
+
+### ISTRUZIONE:
+Genera una risposta ragionata passo per passo.
+### INPUT:
+Come faccio a capire perché una funzione restituisce None quando non dovrebbe?
+### OUTPUT:
+Per prima cosa controlla se la funzione ha un return esplicito. Poi verifica se ci sono percorsi logici che non raggiungono il return. Aggiungi stampe di debug per vedere quali parti del codice vengono eseguite. Infine, controlla che non ci siano eccezioni silenziose che interrompono l’esecuzione.
+
+### ISTRUZIONE:
+Correggi gli errori mantenendo il tono informale.
+### INPUT:
+Ehi bro, la mia funzione non ritorna niente perche o dimenticato il return.
+### OUTPUT:
+Ehi bro, la mia funzione non ritorna niente perché ho dimenticato il return.
+
+### ISTRUZIONE:
+Spiega un concetto CS con un esempio pratico.
+### INPUT:
+Cos’è una struttura dati e perché è importante?
+### OUTPUT:
+Una struttura dati è un modo organizzato di memorizzare informazioni. Ogni struttura ha vantaggi diversi. Per esempio, una lista è ottima per dati ordinati, mentre un dizionario è perfetto per cercare valori tramite chiavi. Scegliere la struttura giusta rende il programma più veloce ed efficiente.
+
+### ISTRUZIONE:
+Rispondi come un assistente tecnico chiaro e diretto.
+### INPUT:
+Il mio ciclo for è lentissimo. Cosa posso fare?
+### OUTPUT:
+Riduci le operazioni dentro il ciclo. Evita conversioni ripetute. Usa strutture dati più veloci come set o dizionari. Se possibile, sposta calcoli costosi fuori dal ciclo. Valuta anche l’uso di list comprehension.
+
+### ISTRUZIONE:
+Completa la frase in modo tecnico e coerente.
+### INPUT:
+Quando ho eseguito il codice, mi sono accorto che...
+### OUTPUT:
+...la funzione veniva chiamata migliaia di volte senza motivo. Ho aggiunto un controllo condizionale e il numero di chiamate è sceso drasticamente.
+
+### ISTRUZIONE:
+Spiega un concetto tecnico avanzato.
+### INPUT:
+Cos’è la complessità temporale e perché è importante?
+### OUTPUT:
+La complessità temporale misura quanto tempo impiega un algoritmo in base alla quantità di dati. Si esprime con la notazione Big O, come O(n) o O(n²). Serve per capire se un algoritmo rimane efficiente quando i dati crescono. Un algoritmo lento può diventare inutilizzabile con dataset grandi.
+
+### ISTRUZIONE:
+Traduci in inglese.
+### INPUT:
+Buonasera, sto cercando di capire come funziona una lambda function in Python.
+### OUTPUT:
+Good evening, I'm trying to understand how a lambda function works in Python.
+
+### ISTRUZIONE:
+Genera idee utili per chi studia programmazione.
+### INPUT:
+Come posso migliorare nel debugging?
+### OUTPUT:
+Usa stampe mirate per capire il flusso del codice. Impara a usare un debugger come pdb. Isola la parte che causa l’errore. Testa con input semplici. Leggi attentamente gli errori: spesso dicono esattamente cosa non va.
+
+### ISTRUZIONE:
+Spiega un concetto tecnico con codice.
+### INPUT:
+Cos’è una list comprehension?
+### OUTPUT:
+È un modo compatto per creare liste. Per esempio:
+
+genera `[0, 2, 4, 6, 8]`. È più veloce e leggibile di un ciclo for tradizionale.
+
+### ISTRUZIONE:
+Rispondi in modo naturale ma tecnico.
+### INPUT:
+Ehi, tutto ok? Sto cercando di capire perché il mio dizionario non trova una chiave.
+### OUTPUT:
+Ehi! Tutto ok. Se il dizionario non trova una chiave, controlla che la chiave esista davvero, che non ci siano spazi o maiuscole diverse e che non stai usando un tipo mutabile come chiave. Puoi anche usare `dict.get()` per evitare errori.
+
+### ISTRUZIONE:
+Spiega un concetto tecnico in modo dettagliato.
+### INPUT:
+Cosa significa che Python è un linguaggio dinamicamente tipizzato?
+### OUTPUT:
+Significa che il tipo di una variabile viene determinato a runtime, non prima dell’esecuzione. Puoi assegnare un intero a una variabile e poi riassegnarle una stringa senza errori. Questo rende Python flessibile, ma può causare bug se non si presta attenzione ai tipi.
+
+### ISTRUZIONE:
+Rispondi in modo naturale ma tecnico.
+### INPUT:
+Ehi ciao, sto cercando di capire perché il mio file JSON non si carica.
+### OUTPUT:
+Ciao! Probabilmente il file ha un errore di formattazione: una virgola in più, una parentesi mancante o una stringa senza virgolette. Prova a validarlo con un parser online o usa `json.loads()` dentro un blocco try/except per vedere l’errore preciso.
+
+### ISTRUZIONE:
+Genera una risposta ragionata passo per passo.
+### INPUT:
+Come faccio a capire se una funzione è troppo lunga?
+### OUTPUT:
+Prima conta quante responsabilità ha: se fa più di una cosa, è troppo lunga. Poi guarda quante righe ha: oltre 30–40 righe può diventare difficile da leggere. Infine verifica se puoi estrarre parti in funzioni più piccole. Una funzione dovrebbe fare una sola cosa e farla bene.
+
+### ISTRUZIONE:
+Spiega un concetto CS con un esempio.
+### INPUT:
+Cos’è un array e come differisce da una lista Python?
+### OUTPUT:
+Un array è una struttura dati con elementi dello stesso tipo, memorizzati in posizioni contigue. È molto efficiente in termini di memoria. Una lista Python invece può contenere tipi diversi e cresce dinamicamente, ma è meno efficiente. Per esempio, un array C contiene solo interi, mentre una lista Python può contenere interi, stringhe e oggetti insieme.
+
+### ISTRUZIONE:
+Correggi gli errori mantenendo il tono informale.
+### INPUT:
+Buonasera, o provato a fare un ciclo ma non funziona come volevo.
+### OUTPUT:
+Buonasera, ho provato a fare un ciclo ma non funziona come volevo.
+
+### ISTRUZIONE:
+Spiega un concetto tecnico avanzato.
+### INPUT:
+Cos’è il garbage collector in Python?
+### OUTPUT:
+È un sistema automatico che libera memoria rimuovendo oggetti non più utilizzati. Python usa il reference counting per capire quando un oggetto non è più referenziato e un algoritmo di garbage collection per gestire cicli di riferimento. Questo evita memory leak e mantiene il programma efficiente.
+
+### ISTRUZIONE:
+Rispondi come un assistente tecnico chiaro e diretto.
+### INPUT:
+Il mio codice si blocca quando apro un file. Cosa posso controllare?
+### OUTPUT:
+Verifica che il percorso del file sia corretto. Controlla i permessi. Assicurati di chiudere il file dopo l’uso con `with open()`. Se il file è grande, leggi a blocchi invece che tutto in una volta.
+
+### ISTRUZIONE:
+Completa la frase in modo tecnico e coerente.
+### INPUT:
+Quando ho lanciato il programma, ho notato che...
+### OUTPUT:
+...la memoria aumentava continuamente. Ho scoperto che una lista veniva riempita senza mai essere svuotata, causando un memory leak logico.
+
+### ISTRUZIONE:
+Spiega un concetto tecnico con codice.
+### INPUT:
+Come funziona una funzione ricorsiva?
+### OUTPUT:
+Una funzione ricorsiva è una funzione che chiama se stessa. Deve avere un caso base per fermarsi. Per esempio: def fattoriale(n):
+if n == 0:
+return 1
+return n * fattoriale(n - 1)
+
+Senza il caso base, la ricorsione sarebbe infinita.
+
+### ISTRUZIONE:
+Genera idee utili per migliorare la qualità del codice.
+### INPUT:
+Come posso rendere il mio codice più leggibile?
+### OUTPUT:
+Usa nomi chiari per variabili e funzioni. Aggiungi commenti solo quando servono. Mantieni funzioni brevi. Segui lo stile PEP8. Evita logica troppo annidata. Spezza il codice in moduli.
+
+### ISTRUZIONE:
+Rispondi in modo naturale ma tecnico.
+### INPUT:
+Ehi, sto cercando di capire perché il mio modulo non viene importato.
+### OUTPUT:
+Ehi! Probabilmente il file non è nel percorso corretto. Controlla che ci sia un `__init__.py` nella cartella, oppure aggiungi il percorso al `sys.path`. Assicurati anche che il nome del file non confligga con moduli standard.
+
+### ISTRUZIONE:
+Spiega un concetto CS in modo semplice.
+### INPUT:
+Cos’è un algoritmo di ricerca?
+### OUTPUT:
+È un metodo per trovare un elemento in una struttura dati. Per esempio, la ricerca lineare controlla ogni elemento uno per uno, mentre la ricerca binaria divide l’elenco a metà ogni volta, risultando molto più veloce su dati ordinati.
+
+### ISTRUZIONE:
+Genera una risposta ragionata passo per passo.
+### INPUT:
+Come faccio a capire se devo usare una lista o un dizionario?
+### OUTPUT:
+Se ti serve mantenere l’ordine e accedere agli elementi per posizione, usa una lista. Se ti serve cercare rapidamente valori tramite chiavi, usa un dizionario. Se devi evitare duplicati, usa un set. Scegli la struttura in base all’operazione più frequente.
+
+### ISTRUZIONE:
+Spiega un concetto tecnico avanzato in modo chiaro.
+### INPUT:
+Cosa significa che Python usa il “duck typing”?
+### OUTPUT:
+Il duck typing è un principio secondo cui non importa il tipo di un oggetto, ma ciò che può fare. Se un oggetto ha i metodi necessari, può essere usato in quel contesto. “Se cammina come un’anatra e fa qua qua come un’anatra, allora è un’anatra”. Questo rende Python molto flessibile, ma richiede attenzione per evitare errori a runtime.
+
+### ISTRUZIONE:
+Rispondi in modo naturale ma tecnico.
+### INPUT:
+Ehi, buonasera! Sto cercando di capire perché la mia lista si modifica da sola.
+### OUTPUT:
+Buonasera! Probabilmente stai passando la lista come riferimento a una funzione che la modifica internamente. In Python le liste sono mutabili, quindi ogni modifica si riflette ovunque. Se vuoi evitarlo, usa `lista.copy()` o lo slicing `lista[:]`.
+
+### ISTRUZIONE:
+Genera una risposta ragionata passo per passo.
+### INPUT:
+Come faccio a capire se un algoritmo è ottimizzabile?
+### OUTPUT:
+Prima misura il tempo di esecuzione con input piccoli e grandi. Poi analizza la complessità temporale: se è O(n²) o peggio, probabilmente puoi migliorarlo. Controlla se stai ripetendo calcoli inutili. Infine, confronta la tua soluzione con algoritmi noti per lo stesso problema.
+
+### ISTRUZIONE:
+Spiega un concetto CS con un esempio concreto.
+### INPUT:
+Cos’è una coda (queue) e quando si usa?
+### OUTPUT:
+Una coda è una struttura dati FIFO: First In, First Out. Il primo elemento inserito è il primo a uscire. Si usa per gestire processi in ordine, come le richieste a un server o i task in un sistema operativo. In Python puoi usare `collections.deque`.
+
+### ISTRUZIONE:
+Correggi gli errori mantenendo il tono informale.
+### INPUT:
+Ciao, o provato a usare una classe ma non capisco perche non funziona.
+### OUTPUT:
+Ciao, ho provato a usare una classe ma non capisco perché non funziona.
+
+### ISTRUZIONE:
+Spiega un concetto tecnico con codice.
+### INPUT:
+Come funziona un dizionario con comprensione (dict comprehension)?
+### OUTPUT:
+È un modo compatto per creare dizionari. Per esempio: quadrati = {x: x*x for x in range(5)}
+
+genera `{0:0, 1:1, 2:4, 3:9, 4:16}`. È più leggibile e spesso più veloce di un ciclo tradizionale.
+
+### ISTRUZIONE:
+Rispondi come un assistente tecnico chiaro e diretto.
+### INPUT:
+Il mio script si blocca quando faccio richieste HTTP. Cosa posso controllare?
+### OUTPUT:
+Controlla se stai usando timeout nelle richieste. Verifica che il server risponda. Usa `try/except` per gestire errori di rete. Se fai molte richieste, usa sessioni persistenti con `requests.Session()`.
+
+### ISTRUZIONE:
+Completa la frase in modo tecnico e coerente.
+### INPUT:
+Quando ho controllato il log del server, ho visto che...
+### OUTPUT:
+...la stessa richiesta veniva inviata centinaia di volte. Ho scoperto che un ciclo non aggiornava correttamente l’URL, causando richieste duplicate.
+
+### ISTRUZIONE:
+Spiega un concetto tecnico avanzato.
+### INPUT:
+Cos’è il multithreading in Python e quali limiti ha?
+### OUTPUT:
+Il multithreading permette di eseguire più thread nello stesso processo. Tuttavia, il Global Interpreter Lock (GIL) impedisce l’esecuzione parallela di bytecode Python puro. È utile per operazioni I/O, ma non per calcoli pesanti. Per il vero parallelismo serve multiprocessing.
+
+### ISTRUZIONE:
+Genera idee utili per migliorare la struttura di un progetto.
+### INPUT:
+Come posso organizzare meglio il mio codice Python?
+### OUTPUT:
+Usa una struttura a cartelle chiara: `src/`, `tests/`, `utils/`. Separa logica, dati e configurazioni. Usa file `.env` per variabili sensibili. Documenta funzioni e moduli. Aggiungi test unitari per evitare regressioni.
+
+### ISTRUZIONE:
+Rispondi in modo naturale ma tecnico.
+### INPUT:
+Ehi, sto cercando di capire perché il mio ciclo while non si ferma.
+### OUTPUT:
+Ehi! Probabilmente la condizione del ciclo non cambia mai. Controlla che la variabile usata nella condizione venga aggiornata dentro il ciclo. Se usi input esterni, verifica che arrivino davvero.
+
+### ISTRUZIONE:
+Spiega un concetto CS in modo semplice.
+### INPUT:
+Cos’è una pila (stack)?
+### OUTPUT:
+Una pila è una struttura dati LIFO: Last In, First Out. L’ultimo elemento inserito è il primo a uscire. Si usa per gestire chiamate di funzioni, undo/redo e parsing di espressioni.
+
+### ISTRUZIONE:
+Genera una risposta ragionata passo per passo.
+### INPUT:
+Come faccio a capire se devo usare una classe invece di funzioni normali?
+### OUTPUT:
+Se devi gestire dati e comportamenti insieme, usa una classe. Se hai bisogno di creare più istanze con stato diverso, usa una classe. Se invece devi solo eseguire operazioni indipendenti, bastano funzioni normali.
+
+### ISTRUZIONE:
+Spiega un concetto tecnico avanzato con precisione.
+### INPUT:
+Cosa significa che Python ha una gestione della memoria basata su reference counting?
+### OUTPUT:
+Ogni oggetto in Python tiene traccia del numero di riferimenti che puntano a lui. Quando questo numero scende a zero, l’oggetto viene eliminato automaticamente. Questo sistema è veloce e semplice, ma non gestisce i cicli di riferimento, motivo per cui esiste anche il garbage collector.
+
+### ISTRUZIONE:
+Rispondi in modo naturale ma tecnico.
+### INPUT:
+Ciao, sto cercando di capire perché la mia funzione modifica una lista anche fuori dalla funzione.
+### OUTPUT:
+Ciao! Succede perché le liste sono mutabili e vengono passate per riferimento. Se vuoi evitare modifiche esterne, crea una copia con `lista.copy()` oppure usa lo slicing `lista[:]`.
+
+### ISTRUZIONE:
+Genera una risposta ragionata passo per passo.
+### INPUT:
+Come faccio a capire se il mio codice è CPU-bound o I/O-bound?
+### OUTPUT:
+Prima misura il tempo di esecuzione con input diversi. Se il tempo aumenta proporzionalmente ai calcoli, è CPU-bound. Se invece il programma passa molto tempo in attesa di file, rete o database, è I/O-bound. Puoi anche usare strumenti come `time`, `cProfile` o `asyncio` per analizzare il comportamento.
+
+### ISTRUZIONE:
+Spiega un concetto CS con un esempio concreto.
+### INPUT:
+Cos’è una tabella hash e come funziona?
+### OUTPUT:
+Una tabella hash usa una funzione hash per trasformare una chiave in un indice. Questo indice punta alla posizione in cui memorizzare il valore. In caso di collisioni, vengono usate tecniche come chaining o open addressing. I dizionari Python sono implementati con tabelle hash.
+
+### ISTRUZIONE:
+Correggi gli errori mantenendo il tono informale.
+### INPUT:
+Ehi, o provato a fare una richiesta API ma mi da errore 404.
+### OUTPUT:
+Ehi, ho provato a fare una richiesta API ma mi dà errore 404.
+
+### ISTRUZIONE:
+Spiega un concetto tecnico con codice.
+### INPUT:
+Come funziona un generatore in Python?
+### OUTPUT:
+Un generatore è una funzione che produce valori uno alla volta usando `yield`. Per esempio:
+def conta():
+n = 0
+while True:
+yield n
+n += 1
+
+I generatori sono utili per gestire grandi quantità di dati senza consumare troppa memoria.
+
+### ISTRUZIONE:
+Rispondi come un assistente tecnico chiaro e diretto.
+### INPUT:
+Il mio script si blocca quando uso input() in un ciclo. Perché?
+### OUTPUT:
+Probabilmente il ciclo continua a chiedere input senza una condizione di uscita. Assicurati che l’input modifichi la variabile di controllo. In alternativa, usa un controllo esplicito come `if risposta == "stop": break`.
+
+### ISTRUZIONE:
+Completa la frase in modo tecnico e coerente.
+### INPUT:
+Quando ho analizzato il comportamento del thread, ho scoperto che...
+### OUTPUT:
+...stava aspettando un lock che non veniva mai rilasciato. Ho risolto usando un context manager per garantire il rilascio automatico.
+
+### ISTRUZIONE:
+Spiega un concetto tecnico avanzato.
+### INPUT:
+Cos’è il memoization e quando si usa?
+### OUTPUT:
+Il memoization è una tecnica che salva i risultati di funzioni costose per evitare di ricalcolarli. È utile in algoritmi ricorsivi come Fibonacci. In Python si può implementare manualmente o usare `functools.lru_cache`.
+
+### ISTRUZIONE:
+Genera idee utili per migliorare le performance.
+### INPUT:
+Come posso velocizzare un algoritmo che lavora su liste molto grandi?
+### OUTPUT:
+Usa strutture dati più efficienti come array o NumPy. Evita cicli annidati. Usa funzioni built-in che sono scritte in C. Riduci le copie di liste. Se possibile, usa slicing invece di cicli manuali.
+
+### ISTRUZIONE:
+Rispondi in modo naturale ma tecnico.
+### INPUT:
+Ehi, sto cercando di capire perché il mio modulo non vede una variabile globale.
+### OUTPUT:
+Ehi! Probabilmente stai modificando la variabile dentro una funzione senza dichiararla `global`. Oppure la variabile è definita dopo l’import. Ricorda che gli import vengono eseguiti una sola volta.
+
+### ISTRUZIONE:
+Spiega un concetto CS in modo semplice.
+### INPUT:
+Cos’è un grafo?
+### OUTPUT:
+Un grafo è una struttura composta da nodi e collegamenti (archi). Può rappresentare reti sociali, mappe, connessioni tra server e molto altro. Può essere orientato o non orientato, pesato o non pesato.
+
+### ISTRUZIONE:
+Genera una risposta ragionata passo per passo.
+### INPUT:
+Come faccio a capire se devo usare un algoritmo ricorsivo o iterativo?
+### OUTPUT:
+Se il problema ha una struttura naturalmente ricorsiva, come gli alberi, la ricorsione è più leggibile. Se invece la profondità può essere molto grande, l’iterazione evita stack overflow. Valuta anche la complessità: a volte la versione iterativa è più efficiente.
+
+### ISTRUZIONE:
+Spiega un concetto tecnico in modo chiaro e completo.
+### INPUT:
+Cosa significa che Python è un linguaggio interpretato e non compilato?
+### OUTPUT:
+Python non viene trasformato in un file eseguibile prima dell’esecuzione. Invece, l’interprete legge il codice riga per riga, lo converte in bytecode e lo esegue immediatamente. Questo rende lo sviluppo più rapido, ma può essere meno efficiente rispetto ai linguaggi compilati come C o Rust.
+
+### ISTRUZIONE:
+Rispondi in modo naturale ma tecnico.
+### INPUT:
+Ciao, sto cercando di capire perché il mio file CSV viene letto male.
+### OUTPUT:
+Ciao! Probabilmente il separatore non è quello che ti aspetti. Alcuni CSV usano la virgola, altri il punto e virgola. Prova a specificare `delimiter=";"` o `delimiter=","` quando usi `csv.reader`. Controlla anche la codifica del file.
+
+### ISTRUZIONE:
+Genera una risposta ragionata passo per passo.
+### INPUT:
+Come faccio a capire se una funzione ha troppi parametri?
+### OUTPUT:
+Conta quanti parametri servono davvero. Se superano 4–5, probabilmente la funzione fa troppo. Verifica se puoi raggruppare parametri correlati in un oggetto o in un dizionario. Se la funzione richiede molti parametri opzionali, valuta di usare una classe.
+
+### ISTRUZIONE:
+Spiega un concetto CS con un esempio concreto.
+### INPUT:
+Cos’è un albero binario?
+### OUTPUT:
+Un albero binario è una struttura dati in cui ogni nodo ha al massimo due figli: sinistro e destro. È usato per ricerche veloci, ordinamento e rappresentazione di espressioni matematiche. Per esempio, un albero di ricerca binaria permette di trovare un valore in O(log n).
+
+### ISTRUZIONE:
+Correggi gli errori mantenendo il tono informale.
+### INPUT:
+Ehi, o provato a usare una lambda ma mi da errore.
+### OUTPUT:
+Ehi, ho provato a usare una lambda ma mi dà errore.
+
+### ISTRUZIONE:
+Spiega un concetto tecnico con codice.
+### INPUT:
+Come funziona un context manager in Python?
+### OUTPUT:
+Un context manager gestisce automaticamente l’entrata e l’uscita da un blocco di codice. Per esempio:
+with open("file.txt") as f:
+contenuto = f.read()
+
+Il file viene aperto all’inizio e chiuso automaticamente alla fine, anche in caso di errore.
+
+### ISTRUZIONE:
+Rispondi come un assistente tecnico chiaro e diretto.
+### INPUT:
+Il mio script si blocca quando faccio operazioni sul database. Cosa posso controllare?
+### OUTPUT:
+Verifica che la connessione sia aperta. Controlla se stai usando transazioni senza commit. Assicurati che non ci siano lock sul database. Usa cursori separati per operazioni parallele.
+
+### ISTRUZIONE:
+Completa la frase in modo tecnico e coerente.
+### INPUT:
+Quando ho eseguito il test di carico, ho notato che...
+### OUTPUT:
+...il server rispondeva lentamente dopo un certo numero di richieste. Ho scoperto che la pool di connessioni non veniva riutilizzata correttamente.
+
+### ISTRUZIONE:
+Spiega un concetto tecnico avanzato.
+### INPUT:
+Cos’è un decoratore in Python?
+### OUTPUT:
+Un decoratore è una funzione che modifica il comportamento di un’altra funzione senza cambiarne il codice. Si applica con la sintassi `@decoratore`. È utile per logging, caching, autorizzazioni e misurazione delle performance.
+
+### ISTRUZIONE:
+Genera idee utili per migliorare la qualità del codice.
+### INPUT:
+Come posso evitare duplicazione di codice?
+### OUTPUT:
+Estrai funzioni comuni. Usa classi per raggruppare comportamenti simili. Crea moduli riutilizzabili. Evita di copiare e incollare codice: se lo fai, probabilmente serve una funzione dedicata.
+
+### ISTRUZIONE:
+Rispondi in modo naturale ma tecnico.
+### INPUT:
+Ehi, sto cercando di capire perché il mio script non vede un modulo installato.
+### OUTPUT:
+Ehi! Probabilmente stai usando un ambiente virtuale diverso da quello in cui hai installato il modulo. Controlla `pip list` e `which python` per verificare che stai usando lo stesso interprete.
+
+### ISTRUZIONE:
+Spiega un concetto CS in modo semplice.
+### INPUT:
+Cos’è un algoritmo di ordinamento?
+### OUTPUT:
+È un metodo per mettere in ordine una lista di elementi. Alcuni algoritmi sono semplici, come bubble sort, altri molto efficienti, come quicksort o mergesort. L’obiettivo è ridurre il numero di confronti e scambi.
+
+### ISTRUZIONE:
+Genera una risposta ragionata passo per passo.
+### INPUT:
+Come faccio a capire se devo usare una lista o una tupla?
+### OUTPUT:
+Se i dati non devono cambiare, usa una tupla: è immutabile e più veloce. Se invece devi modificare, aggiungere o rimuovere elementi, usa una lista. Le tuple sono anche più sicure per rappresentare dati costanti.
+
+### ISTRUZIONE:
+Spiega un concetto tecnico avanzato in modo chiaro.
+### INPUT:
+Cosa significa che Python usa una “object model” uniforme?
+### OUTPUT:
+In Python tutto è un oggetto: numeri, funzioni, moduli, classi, persino i tipi stessi. Ogni elemento ha attributi e metodi accessibili tramite `.`. Questo rende il linguaggio estremamente coerente e flessibile, permettendo metaprogrammazione e introspezione avanzata.
+
+### ISTRUZIONE:
+Rispondi in modo naturale ma tecnico.
+### INPUT:
+Ehi ciao, sto cercando di capire perché il mio codice non vede una variabile definita fuori dalla funzione.
+### OUTPUT:
+Ciao! Probabilmente stai creando una variabile locale con lo stesso nome dentro la funzione. Se vuoi modificare la variabile esterna, devi dichiararla `global`, ma spesso è meglio evitare e passare i valori come parametri.
+
+### ISTRUZIONE:
+Genera una risposta ragionata passo per passo.
+### INPUT:
+Come faccio a capire se un algoritmo ricorsivo può essere trasformato in uno iterativo?
+### OUTPUT:
+Controlla se la ricorsione segue uno schema semplice, come scendere di uno alla volta. Se la funzione richiama se stessa con parametri ridotti in modo prevedibile, puoi usare un ciclo while. Se la ricorsione usa una pila implicita, puoi simularla con una lista.
+
+### ISTRUZIONE:
+Spiega un concetto CS con un esempio concreto.
+### INPUT:
+Cos’è un heap e quando si usa?
+### OUTPUT:
+Un heap è una struttura dati che mantiene sempre l’elemento minimo (o massimo) in cima. È usato per code di priorità, algoritmi di scheduling e Dijkstra. In Python puoi usare `heapq`, che implementa un min-heap.
+
+### ISTRUZIONE:
+Correggi gli errori mantenendo il tono informale.
+### INPUT:
+Buonasera, o provato a fare una classe ma non capisco perche il metodo non viene chiamato.
+### OUTPUT:
+Buonasera, ho provato a fare una classe ma non capisco perché il metodo non viene chiamato.
+
+### ISTRUZIONE:
+Spiega un concetto tecnico con codice.
+### INPUT:
+Come funziona un set in Python?
+### OUTPUT:
+Un set è una collezione non ordinata di elementi unici. È implementato con tabelle hash, quindi le ricerche sono molto veloci. Per esempio:
+s = {1, 2, 3}
+s.add(4)
+
+I set sono utili per eliminare duplicati e fare operazioni insiemistiche.
+
+### ISTRUZIONE:
+Rispondi come un assistente tecnico chiaro e diretto.
+### INPUT:
+Il mio script si blocca quando faccio operazioni su file molto grandi. Cosa posso fare?
+### OUTPUT:
+Leggi il file a blocchi usando `read(size)` o itera riga per riga. Evita di caricare tutto in memoria. Usa `with open()` per gestire correttamente le risorse.
+
+### ISTRUZIONE:
+Completa la frase in modo tecnico e coerente.
+### INPUT:
+Quando ho controllato il comportamento della funzione, ho scoperto che...
+### OUTPUT:
+...veniva chiamata con parametri non validi. Ho aggiunto controlli di tipo e ora il flusso è più stabile.
+
+### ISTRUZIONE:
+Spiega un concetto tecnico avanzato.
+### INPUT:
+Cos’è il pattern Observer?
+### OUTPUT:
+È un pattern in cui un oggetto (subject) notifica automaticamente altri oggetti (observer) quando cambia stato. È utile per GUI, sistemi di eventi e notifiche. In Python si può implementare con callback o segnali.
+
+### ISTRUZIONE:
+Genera idee utili per migliorare la stabilità del codice.
+### INPUT:
+Come posso evitare crash imprevisti?
+### OUTPUT:
+Usa blocchi try/except mirati. Valida gli input. Aggiungi log dettagliati. Evita assunzioni implicite. Scrivi test unitari per coprire i casi limite.
+
+### ISTRUZIONE:
+Rispondi in modo naturale ma tecnico.
+### INPUT:
+Ehi, sto cercando di capire perché il mio script non aggiorna un file JSON.
+### OUTPUT:
+Ehi! Probabilmente stai sovrascrivendo il file senza salvare correttamente. Usa `json.dump()` con `with open()` e assicurati di aprire il file in modalità scrittura.
+
+### ISTRUZIONE:
+Spiega un concetto CS in modo semplice.
+### INPUT:
+Cos’è una ricerca binaria?
+### OUTPUT:
+È un algoritmo che trova un valore in una lista ordinata dividendo l’elenco a metà ogni volta. È molto più veloce della ricerca lineare, con complessità O(log n).
+
+### ISTRUZIONE:
+Genera una risposta ragionata passo per passo.
+### INPUT:
+Come faccio a capire se devo usare un dizionario o un set?
+### OUTPUT:
+Se ti serve associare chiavi a valori, usa un dizionario. Se ti serve solo verificare l’esistenza di elementi unici, usa un set. I set sono più leggeri e veloci per membership test.
+
+### ISTRUZIONE:
+Spiega un concetto tecnico avanzato in modo chiaro.
+### INPUT:
+Cosa significa che Python supporta la metaprogrammazione?
+### OUTPUT:
+La metaprogrammazione permette al codice di modificare se stesso o di generare nuovo codice durante l’esecuzione. In Python si può fare tramite introspezione, decoratori, metaclassi e manipolazione dinamica di attributi. Questo permette di creare framework flessibili e automatizzare comportamenti complessi.
+
+### ISTRUZIONE:
+Rispondi in modo naturale ma tecnico.
+### INPUT:
+Ehi, sto cercando di capire perché il mio ciclo for salta alcuni elementi.
+### OUTPUT:
+Ehi! Succede spesso quando modifichi la lista mentre la stai iterando. Se rimuovi o aggiungi elementi dentro il ciclo, gli indici cambiano e alcuni valori vengono saltati. Usa una copia della lista o crea una nuova lista filtrata.
+
+### ISTRUZIONE:
+Genera una risposta ragionata passo per passo.
+### INPUT:
+Come faccio a capire se un algoritmo è stabile?
+### OUTPUT:
+Un algoritmo è stabile se mantiene l’ordine relativo degli elementi con lo stesso valore. Per verificarlo, crea una lista con duplicati e assegna a ciascuno un identificatore. Ordina la lista e controlla se gli identificatori rimangono nello stesso ordine. Se sì, l’algoritmo è stabile.
+
+### ISTRUZIONE:
+Spiega un concetto CS con un esempio concreto.
+### INPUT:
+Cos’è un albero AVL?
+### OUTPUT:
+Un albero AVL è un albero binario di ricerca auto-bilanciato. Dopo ogni inserimento o rimozione, controlla l’altezza dei sottoalberi e applica rotazioni per mantenere l’equilibrio. Questo garantisce ricerche, inserimenti e cancellazioni in O(log n).
+
+### ISTRUZIONE:
+Correggi gli errori mantenendo il tono informale.
+### INPUT:
+Ciao, o provato a fare una funzione asincrona ma non capisco perche non parte.
+### OUTPUT:
+Ciao, ho provato a fare una funzione asincrona ma non capisco perché non parte.
+
+### ISTRUZIONE:
+Spiega un concetto tecnico con codice.
+### INPUT:
+Come funziona async/await in Python?
+### OUTPUT:
+`async` definisce una funzione asincrona, mentre `await` sospende l’esecuzione finché l’operazione non è completata. Per esempio:
+import asyncio
+async def saluta():
+await asyncio.sleep(1)
+return "ciao"
+asyncio.run(saluta())
+
+Questo permette di gestire molte operazioni I/O senza bloccare il programma.
+
+### ISTRUZIONE:
+Rispondi come un assistente tecnico chiaro e diretto.
+### INPUT:
+Il mio script si blocca quando faccio richieste a un database remoto. Cosa posso controllare?
+### OUTPUT:
+Controlla la latenza della rete. Imposta timeout nelle query. Usa connessioni persistenti. Verifica che il database non stia limitando le richieste. Se possibile, usa query asincrone.
+
+### ISTRUZIONE:
+Completa la frase in modo tecnico e coerente.
+### INPUT:
+Quando ho analizzato il comportamento della ricorsione, ho scoperto che...
+### OUTPUT:
+...la funzione non aveva un caso base corretto. Questo causava una ricorsione infinita e un conseguente stack overflow.
+
+### ISTRUZIONE:
+Spiega un concetto tecnico avanzato.
+### INPUT:
+Cos’è una metaclasse in Python?
+### OUTPUT:
+Una metaclasse è la classe che crea le classi. Permette di modificare automaticamente attributi, metodi e comportamento delle classi durante la loro creazione. È uno strumento potente per framework e librerie complesse.
+
+### ISTRUZIONE:
+Genera idee utili per migliorare la sicurezza del codice.
+### INPUT:
+Come posso evitare vulnerabilità nel mio programma Python?
+### OUTPUT:
+Valida sempre gli input. Evita `eval()`. Usa librerie aggiornate. Proteggi file sensibili. Usa parametri nelle query SQL per evitare injection. Limita i permessi dei file. Aggiungi logging per rilevare comportamenti sospetti.
+
+### ISTRUZIONE:
+Rispondi in modo naturale ma tecnico.
+### INPUT:
+Ehi, sto cercando di capire perché il mio script non libera memoria.
+### OUTPUT:
+Ehi! Probabilmente stai mantenendo riferimenti a oggetti che non servono più. Controlla liste, dizionari e cache. Usa `del` per rimuovere riferimenti e lascia che il garbage collector faccia il resto. Se usi cicli di riferimento, prova `gc.collect()`.
+
+### ISTRUZIONE:
+Spiega un concetto CS in modo semplice.
+### INPUT:
+Cos’è un algoritmo greedy?
+### OUTPUT:
+È un algoritmo che prende la decisione migliore possibile a ogni passo, senza considerare il futuro. È veloce e semplice, ma non sempre trova la soluzione ottimale. Funziona bene per problemi come il cambio monete o la selezione di attività.
+
+### ISTRUZIONE:
+Genera una risposta ragionata passo per passo.
+### INPUT:
+Come faccio a capire se devo usare multiprocessing invece di multithreading?
+### OUTPUT:
+Se il tuo codice è CPU-bound, usa multiprocessing: ogni processo ha il suo interprete e può sfruttare più core. Se invece il codice è I/O-bound, il multithreading è più leggero e sufficiente. Misura sempre le performance prima di scegliere.
