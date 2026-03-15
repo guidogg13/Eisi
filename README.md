@@ -1,5 +1,5 @@
 # Eisi
-Hi, im guido, i’m 12 and this is my LLM. It is good, but isn’t very velocity to charge
+Hi, im Guido, i’m 12 and this is my LLM. It is good, but isn’t very velocity to charge
 I created this Open Source IA called Eisi that help to programm. That isn't the finally progect, that is onli alpha vesrion.
 
 ISN'T NOT GUARANTEED TO WORK
