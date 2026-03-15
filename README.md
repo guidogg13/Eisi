@@ -19,4 +19,37 @@ This is just the beginning — the final version will be much more complete.
 
 
 
+📦 Library Installation Instructions (for README)
+When you download the entire project, open it in an editor such as Visual Studio Code.
+Some modules are part of the Python Standard Library, while others must be installed manually.
+✅ Modules already included in Python (no installation required)
+These libraries come bundled with Python, so you don’t need to install them:
+re
+dataclasses (included by default in Python 3.7+)
+collections (Counter, defaultdict)
+math
+📥 Libraries that must be installed manually
+The following packages need to be installed using pip:
+torch
+pythorc (if this is a custom module; otherwise PyTorch is simply torch)
+matplotlib
+🧩 How to install them
+
+🟦 On Windows
+Use pip:
+
+pip install torch
+pip install matplotlib
+
+🍏 On macOS
+Use pip3, since this project requires Python 3 only.
+
+pip3 install torch
+pip3 install matplotlib
+
+🐧 On Linux
+Same as macOS — use pip3:
+
+pip3 install torch
+pip3 install matplotlib
 
