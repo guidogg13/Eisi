@@ -1,10 +1,17 @@
-# Eisi
-Hi, im Guido, i’m 12 and this is my LLM. It is good, but isn’t very velocity to charge
-I created this Open Source IA called Eisi that help to programm. That isn't the finally progect, that is onli alpha vesrion.
+Hi, I’m Guido, and this is my LLM project.
 
-ISN'T NOT GUARANTEED TO WORK
+This is **Eisi**, an open‑source AI designed to help with programming, especially Python.  
+It’s still in **alpha version**, so performance is limited and not guaranteed to work in every situation.
 
+### ⚠️ Important notes
+- The dataset is focused only on programming and Python.
+- General-purpose use is not recommended yet.
+- The model is incomplete and still experimental.
+- There is **no license** — the project is fully open source.
+- To run Eisi correctly, you must download **all files**. Missing files will cause errors.
 
-This AI has a dataset specialized exclusively in programming and Python.
+### 🔧 Customization
+You can replace the dataset with your own if you want.  
+Everything here is free to use, modify, and experiment with.
 
-Its common use is not recommended because it is still incomplete and has a very limited dataset. There are no licenses for anything — it is completely Open Source. Once you download everything (all files must be downloaded, otherwise the AI will never work), you can also replace the dataset if you want. For anyone interested, everything is free.
+This is just the beginning — the final version will be much more complete.
