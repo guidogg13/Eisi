@@ -60,6 +60,12 @@ Use pip:
 
 pip install torch
 pip install matplotlib
+pip install re
+pip install dataclass
+pip install collections
+pip install math
+pip install torch
+pip install pytorch
 
 
 ### 🍏 On macOS
@@ -67,6 +73,12 @@ Use pip3, since this project requires Python 3 only:
 
 pip3 install torch
 pip3 install matplotlib
+pip3 install re
+pip3 install dataclass
+pip3 install collections
+pip3 install math
+pip3 install torch
+pip3 install pytorch
 
 
 
@@ -75,6 +87,12 @@ Same as macOS — use pip3:
 
 pip3 install torch
 pip3 install matplotlib
+pip3 install re
+pip3 install dataclass
+pip3 install collections
+pip3 install math
+pip3 install torch
+pip3 install pytorch
 
 
 
