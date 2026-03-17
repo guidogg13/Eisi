@@ -59,6 +59,7 @@ venv
 
 Use pip:
 ...
+
 pip install torch  
 pip install matplotlib    
 pip install torch  
@@ -70,6 +71,7 @@ python -m venv venv
 
 Use pip3, since this project requires Python 3 only:
 ...
+
 pip3 install torch  
 pip3 install matplotlib  
 pip3 install torch  
@@ -81,6 +83,7 @@ python3 -m venv venv
 
 Same as macOS — use pip3:
 ...
+
 pip3 install torch  
 pip3 install matplotlib  
 pip3 install torch  
@@ -114,10 +117,12 @@ This project have a licenze: MIT
 To install **Eisi**, you must first clone the repository directly from your terminal.  
 Open the integrated terminal of your code editor (for example, Visual Studio Code) and run:
 ...
+
 git clone https://github.com/tuo-username/Eisi.git
 ...
 Once the download is complete, enter the project folder:
 ...
+
 cd Eisi
 ...
 From here, make sure you have Python 3.13.0 installed, then install all the required libraries exactly as listed in the instructions above.  
