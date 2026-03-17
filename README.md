@@ -113,3 +113,6 @@ If you are an advanced user, feel free to test, modify, and improve the project 
 This project uses the MIT license. You are free to use, modify, distribute, and experiment with the code, following the terms of the MIT license.
 
 This project have a licenze: MIT
+
+
+
