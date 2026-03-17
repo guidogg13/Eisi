@@ -65,8 +65,19 @@ pip install torch
 pip install matplotlib    
 pip install torch  
 pip install pytorch
+```
+
+than...
+
+```
 python -m venv venv
 ```
+to end...
+```
+venv\Scripts\activate
+```
+
+
 
 🍏 On macOS
 
@@ -80,6 +91,17 @@ pip3 install pytorch
 python3 -m venv venv
 ```
 
+than...
+
+```
+python -m venv venv
+```
+to end...
+```
+source venv/bin/activate
+
+```
+
 🐧 On Linux
 
 Same as macOS — use pip3:
@@ -90,6 +112,16 @@ pip3 install matplotlib
 pip3 install torch  
 pip3 install pytorch  
 python3 -m venv venv
+```
+
+than...
+```
+python -m venv venv
+```
+to end...
+```
+source venv/bin/activate
+
 ```
 ---
 
