@@ -148,15 +148,19 @@ def chat(model, vocab, inv_vocab, config):
 
     while True:
         user = input("Tu: ").strip()
-        prompt = f"Utente: {user} IA:"
+        prompt = f"USER: {user}\nASSISTANT:"
         ids = encode(prompt, vocab)
         x = torch.tensor([ids], dtype=torch.long)
 
         out = model.generate(x, 40)
         out = out[0].tolist()
-        reply = out[len(ids):]
+        reply = decode(out[len(ids):], inv_vocab)
 
-        print("IA:", decode(reply, inv_vocab))
+        # 🔥 BLOCCO CHE RISOLVE IL TUO PROBLEMA
+        if "USER:" in reply:
+            reply = reply.split("USER:")[0].strip()
+
+        print("IA:", reply)
 
 # ============================================================
 # MAIN
