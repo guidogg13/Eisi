@@ -69,7 +69,7 @@ class BPETokenizer:
 if __name__ == "__main__":
     print("Carico dataset...")
 
-    with open("data/dataset_clean.txt", "r", encoding="utf-8") as f:
+    with open("data/dataset_dialogo.txt", "r", encoding="utf-8") as f:
         text = f.read()
 
     print("Lunghezza dataset:", len(text))
