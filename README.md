@@ -14,6 +14,16 @@ This project ist open-source
 To run Eisi correctly, you must download all files. Missing files will cause errors.
 Eisi must be run on Python 3.13.0. Other versions are not supported and may cause unexpected behavior.
 
+
+
+
+
+```
+pip install torch
+pip install matplotlib
+```
+
+
 ---
 
 🔧 Customization
