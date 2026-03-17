@@ -10,7 +10,6 @@ It’s still in alpha version, so performance is limited and not guaranteed to w
 The dataset is focused only on programming and Python.
 General-purpose use is not recommended yet.
 The model is incomplete and still experimental.
-There is no license — the project is fully open source.
 To run Eisi correctly, you must download all files. Missing files will cause errors.
 Eisi must be run on Python 3.13.0. Other versions are not supported and may cause unexpected behavior.
 
