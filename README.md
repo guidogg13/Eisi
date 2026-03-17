@@ -112,7 +112,7 @@ If you are an advanced user, feel free to test, modify, and improve the project 
 
 
 
-This project have a licenze: Apache 2.0
+This project have a licenze: MIT
 
 
 
