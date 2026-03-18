@@ -1,0 +1,424 @@
+USER: Ho troppe cose da fare oggi.
+ASSISTANT: Parti da quella che richiede meno di 5 minuti.
+USER: Non so quale attività iniziare.
+ASSISTANT: Scegli quella con la scadenza più vicina.
+USER: Ho paura di dimenticare un impegno.
+ASSISTANT: Aggiungilo subito al calendario.
+USER: Mi sento sopraffatto dagli impegni.
+ASSISTANT: Scrivi una lista e affronta un punto alla volta.
+USER: Non riesco a iniziare un compito difficile.
+ASSISTANT: Fai solo il primo passo, anche minuscolo.
+USER: Ho una scadenza importante domani.
+ASSISTANT: Dedica 20 minuti ora alla parte più semplice.
+USER: Devo organizzare la giornata.
+ASSISTANT: Raggruppa attività simili e falla scorrere.
+USER: Ho un impegno che continuo a rimandare.
+ASSISTANT: Imposta un timer da 10 minuti e inizia.
+USER: Non riesco a concentrarmi.
+ASSISTANT: Elimina le distrazioni per i prossimi 15 minuti.
+USER: Ho troppe email da leggere.
+ASSISTANT: Fai un triage: urgenti, importanti, ignorabili.
+USER: Devo preparare una riunione.
+ASSISTANT: Scrivi tre punti chiave e parti da quelli.
+USER: Ho un compito urgente.
+ASSISTANT: Blocca 20 minuti ora e affrontalo subito.
+USER: Non so quanto tempo mi servirà.
+ASSISTANT: Stima e poi dimezza: spesso basta meno.
+USER: Ho un’attività lunga.
+ASSISTANT: Spezzala in blocchi da 15 minuti.
+USER: Devo ricordarmi una chiamata.
+ASSISTANT: Imposta un promemoria 10 minuti prima.
+USER: Ho un impegno che mi stressa.
+ASSISTANT: Inizia dalla parte più semplice.
+USER: Non riesco a gestire le interruzioni.
+ASSISTANT: Prevedi due finestre al giorno per recuperare.
+USER: Ho un compito che richiede precisione.
+ASSISTANT: Dedica un blocco senza notifiche.
+USER: Devo preparare un documento.
+ASSISTANT: Scrivi prima la struttura.
+USER: Ho un’attività che non voglio fare.
+ASSISTANT: Falla per soli 5 minuti.
+USER: Ho una giornata piena.
+ASSISTANT: Identifica l’unica cosa davvero essenziale.
+USER: Devo incastrare più impegni.
+ASSISTANT: Ordinali per durata e affronta i più brevi.
+USER: Ho un compito creativo.
+ASSISTANT: Prenditi 3 minuti per schiarire la mente.
+USER: Non so da dove iniziare.
+ASSISTANT: Parti da ciò che ti dà più slancio.
+USER: Ho un impegno ricorrente.
+ASSISTANT: Trasformalo in appuntamento fisso.
+USER: Ho un’attività urgente e una importante.
+ASSISTANT: Fai prima l’urgente.
+USER: Devo preparare un report.
+ASSISTANT: Raccogli prima i dati.
+USER: Ho un compito che richiede calma.
+ASSISTANT: Fai una pausa breve e poi inizia.
+USER: Ho paura di non finire in tempo.
+ASSISTANT: Completa la versione minima.
+USER: Ho un impegno che rischio di dimenticare.
+ASSISTANT: Scrivilo ora in agenda.
+USER: Ho troppe cose in testa.
+ASSISTANT: Fai un brain dump di 2 minuti.
+USER: Non riesco a rispettare gli orari.
+ASSISTANT: Imposta un allarme 10 minuti prima.
+USER: Ho un compito che richiede concentrazione.
+ASSISTANT: Lavora in modalità aereo.
+USER: Devo organizzare gli spostamenti.
+ASSISTANT: Raggruppa gli impegni per zona.
+USER: Ho un’attività che mi annoia.
+ASSISTANT: Alternala con qualcosa di piacevole.
+USER: Ho un compito che rimando sempre.
+ASSISTANT: Fai solo il primo minuto.
+USER: Non so cosa sia prioritario.
+ASSISTANT: Chiediti cosa succede se lo rimandi.
+USER: Ho un impegno che non posso spostare.
+ASSISTANT: Costruisci la giornata attorno a quello.
+USER: Ho un’attività che richiede energia.
+ASSISTANT: Falla quando sei più fresco.
+USER: Ho un compito che mi mette ansia.
+ASSISTANT: Respira 30 secondi e inizia dal minimo.
+USER: Devo preparare una presentazione.
+ASSISTANT: Parti dalla scaletta.
+USER: Ho un’attività che richiede ordine.
+ASSISTANT: Sistema l’essenziale prima di iniziare.
+USER: Ho un compito che temo di sbagliare.
+ASSISTANT: Fai una bozza veloce.
+USER: Ho un impegno importante.
+ASSISTANT: Prepara 3 punti chiave.
+USER: Ho un’attività che richiede tempo.
+ASSISTANT: Dedica un blocco fisso ogni giorno.
+USER: Ho un compito che non so stimare.
+ASSISTANT: Prova per 10 minuti e valuta.
+USER: Ho un impegno che mi pesa.
+ASSISTANT: Premia te stesso dopo averlo fatto.
+USER: Ho un’attività che richiede attenzione.
+ASSISTANT: Lavora in un ambiente senza distrazioni.
+USER: Ho un compito urgente.
+ASSISTANT: Inizia entro i prossimi 5 minuti.
+USER: Ho un’attività che voglio finire oggi.
+ASSISTANT: Blocca un’ora dedicata solo a quella.
+USER: Ho un compito che richiede molta attenzione.
+ASSISTANT: Lavora per 15 minuti senza notifiche.
+USER: Devo ricordarmi una scadenza entro oggi.
+ASSISTANT: Imposta un promemoria immediato.
+USER: Ho troppe attività aperte.
+ASSISTANT: Chiudi quella che puoi completare in meno tempo.
+USER: Non riesco a iniziare il lavoro.
+ASSISTANT: Parti da un’attività semplice per sbloccarti.
+USER: Ho un impegno che mi mette pressione.
+ASSISTANT: Suddividilo in micro‑passi e fai il primo.
+USER: Devo preparare una lista di priorità.
+ASSISTANT: Scrivi solo le tre più importanti.
+USER: Ho un compito che richiede calma.
+ASSISTANT: Prenditi due minuti per respirare e poi inizia.
+USER: Non so come organizzare il pomeriggio.
+ASSISTANT: Alterna un’attività impegnativa a una leggera.
+USER: Ho un impegno che non posso dimenticare.
+ASSISTANT: Aggiungilo subito al calendario con un alert.
+USER: Ho un’attività che richiede creatività.
+ASSISTANT: Cambia ambiente per stimolare nuove idee.
+USER: Devo gestire più scadenze.
+ASSISTANT: Ordinale per impatto e affronta la più critica.
+USER: Ho un compito che mi annoia.
+ASSISTANT: Imposta un timer breve e fai una pausa dopo.
+USER: Non riesco a decidere cosa fare prima.
+ASSISTANT: Scegli ciò che libera più energia una volta fatto.
+USER: Ho un impegno che richiede precisione.
+ASSISTANT: Lavora senza notifiche per 15 minuti.
+USER: Devo preparare un documento complesso.
+ASSISTANT: Parti dalla struttura e riempi un punto alla volta.
+USER: Ho un’attività che richiede tempo.
+ASSISTANT: Dedica un blocco fisso ogni giorno.
+USER: Non riesco a gestire la mole di lavoro.
+ASSISTANT: Elimina ciò che non è essenziale oggi.
+USER: Ho un compito urgente da fare.
+ASSISTANT: Inizia entro i prossimi 5 minuti.
+USER: Ho un impegno che continuo a rimandare.
+ASSISTANT: Fai solo il primo minuto.
+USER: Devo ricordarmi una cosa importante.
+ASSISTANT: Scrivila subito in un posto visibile.
+USER: Ho un’attività che mi stressa.
+ASSISTANT: Inizia dalla parte più semplice.
+USER: Non so quanto tempo dedicare a un compito.
+ASSISTANT: Prova 10 minuti e valuta dopo.
+USER: Ho un impegno che richiede energia.
+ASSISTANT: Fai una pausa breve prima di iniziare.
+USER: Devo organizzare la settimana.
+ASSISTANT: Identifica tre obiettivi principali.
+USER: Ho un compito che temo di sbagliare.
+ASSISTANT: Fai una bozza veloce senza giudicarti.
+USER: Ho un’attività che richiede ordine.
+ASSISTANT: Sistema l’essenziale prima di iniziare.
+USER: Non riesco a concentrarmi oggi.
+ASSISTANT: Lavora in blocchi da 10 minuti.
+USER: Ho un impegno che non posso spostare.
+ASSISTANT: Costruisci il resto della giornata attorno a quello.
+USER: Ho un compito che richiede attenzione.
+ASSISTANT: Tieni solo ciò che serve sulla scrivania.
+USER: Devo preparare una presentazione.
+ASSISTANT: Parti dai punti principali.
+USER: Ho un’attività che richiede calma.
+ASSISTANT: Falla nel momento della giornata in cui sei più lucido.
+USER: Ho un compito che mi mette ansia.
+ASSISTANT: Respira profondamente e fai il primo passo.
+USER: Devo ricordarmi una lista di cose.
+ASSISTANT: Scrivila subito e tienila a portata di mano.
+USER: Ho un’attività che richiede precisione.
+ASSISTANT: Lavora in un ambiente senza distrazioni.
+USER: Non so da dove iniziare oggi.
+ASSISTANT: Parti da ciò che ti dà più slancio.
+USER: Ho un compito che richiede creatività.
+ASSISTANT: Cambia prospettiva o luogo.
+USER: Ho un impegno che mi pesa.
+ASSISTANT: Premia te stesso dopo averlo completato.
+USER: Ho un’attività urgente.
+ASSISTANT: Dedicale i prossimi 15 minuti.
+USER: Non riesco a rispettare gli orari.
+ASSISTANT: Imposta un allarme 10 minuti prima.
+USER: Ho un compito che richiede concentrazione.
+ASSISTANT: Attiva la modalità aereo.
+USER: Devo organizzare gli spostamenti.
+ASSISTANT: Raggruppa gli impegni per zona.
+USER: Ho un’attività lunga.
+ASSISTANT: Spezzala in blocchi da 20 minuti.
+USER: Ho un compito che rimando da giorni.
+ASSISTANT: Fai solo il primo passo ora.
+USER: Ho un impegno importante.
+ASSISTANT: Prepara tre punti chiave.
+USER: Ho un’attività che richiede tempo.
+ASSISTANT: Dedica un blocco fisso ogni mattina.
+USER: Non riesco a gestire le interruzioni.
+ASSISTANT: Prevedi due finestre per recuperare.
+USER: Ho un compito che non so stimare.
+ASSISTANT: Prova per 5 minuti e valuta.
+USER: Ho un impegno che rischio di dimenticare.
+ASSISTANT: Aggiungilo al calendario con un alert.
+USER: Ho un’attività che richiede energia.
+ASSISTANT: Falla quando sei più fresco.
+USER: Ho un compito urgente da chiudere.
+ASSISTANT: Inizia subito dalla parte più semplice.
+USER: Ho un’attività che voglio finire oggi.
+ASSISTANT: Blocca un’ora dedicata solo a quella.
+USER: Ho un compito che richiede ordine mentale.
+ASSISTANT: Libera la scrivania da tutto il superfluo.
+USER: Devo preparare una scaletta.
+ASSISTANT: Scrivi tre punti essenziali.
+USER: Ho un’attività che richiede continuità.
+ASSISTANT: Dedica un blocco fisso ogni giorno alla stessa ora.
+USER: Ho un compito che mi mette pressione.
+ASSISTANT: Inizia dalla parte più semplice per sciogliere la tensione.
+USER: Non riesco a capire cosa sia urgente.
+ASSISTANT: Chiediti cosa succede se lo rimandi.
+USER: Ho un impegno che richiede puntualità.
+ASSISTANT: Imposta due allarmi distanziati.
+USER: Ho un’attività che richiede creatività.
+ASSISTANT: Fai una pausa breve per ossigenare la mente.
+USER: Ho un compito che richiede precisione.
+ASSISTANT: Lavora in un ambiente ordinato.
+USER: Devo ricordarmi un appuntamento.
+ASSISTANT: Aggiungilo al calendario con un promemoria.
+USER: Ho un’attività che richiede calma.
+ASSISTANT: Falla quando hai meno distrazioni.
+USER: Ho un compito che mi blocca.
+ASSISTANT: Spezzalo in micro‑passi.
+USER: Ho un impegno che non voglio fare.
+ASSISTANT: Dedica solo 5 minuti per iniziare.
+USER: Ho un’attività che richiede energia mentale.
+ASSISTANT: Falla nella tua ora migliore della giornata.
+USER: Non riesco a organizzare la mattina.
+ASSISTANT: Parti da un’attività semplice e veloce.
+USER: Ho un compito che richiede attenzione costante.
+ASSISTANT: Lavora in blocchi da 15 minuti.
+USER: Ho un impegno che temo di dimenticare.
+ASSISTANT: Scrivilo su un post‑it e mettilo davanti a te.
+USER: Ho un’attività che richiede ordine.
+ASSISTANT: Sistema il necessario prima di iniziare.
+USER: Ho un compito urgente.
+ASSISTANT: Inizia entro i prossimi 3 minuti.
+USER: Ho un impegno che richiede preparazione.
+ASSISTANT: Prepara tre punti chiave.
+USER: Ho un’attività che richiede calma mentale.
+ASSISTANT: Respira profondamente per 30 secondi.
+USER: Ho un compito che richiede creatività.
+ASSISTANT: Cambia posizione o luogo.
+USER: Ho un impegno che mi mette ansia.
+ASSISTANT: Inizia dalla parte più semplice.
+USER: Ho un’attività che richiede tempo.
+ASSISTANT: Dedica un blocco fisso oggi.
+USER: Ho un compito che non so come affrontare.
+ASSISTANT: Scrivi tre passi possibili e fai il primo.
+USER: Ho un impegno che non posso rimandare.
+ASSISTANT: Blocca subito il tempo necessario.
+USER: Ho un’attività che richiede concentrazione profonda.
+ASSISTANT: Lavora senza telefono per 20 minuti.
+USER: Ho un compito che richiede chiarezza.
+ASSISTANT: Scrivi cosa devi ottenere in una frase.
+USER: Ho un impegno che richiede puntualità assoluta.
+ASSISTANT: Prevedi un margine di 10 minuti.
+USER: Ho un’attività che richiede precisione.
+ASSISTANT: Lavora lentamente e senza fretta.
+USER: Ho un compito che mi pesa molto.
+ASSISTANT: Fai solo il primo passo per sbloccare la mente.
+USER: Ho un compito che richiede molta concentrazione.
+ASSISTANT: Lavora per 20 minuti senza interruzioni.
+USER: Devo ricordarmi una scadenza entro stasera.
+ASSISTANT: Imposta un promemoria immediato.
+USER: Ho troppe attività in sospeso.
+ASSISTANT: Chiudi quella che puoi completare più velocemente.
+USER: Non riesco a iniziare la giornata.
+ASSISTANT: Parti da un’attività semplice per sbloccarti.
+USER: Ho un impegno che mi mette pressione.
+ASSISTANT: Suddividilo in micro‑passi e fai il primo.
+USER: Devo preparare una lista di priorità.
+ASSISTANT: Scrivi solo le tre più importanti.
+USER: Ho un compito che richiede calma.
+ASSISTANT: Prenditi due minuti per respirare e poi inizia.
+USER: Non so come organizzare il pomeriggio.
+ASSISTANT: Alterna un’attività impegnativa a una leggera.
+USER: Ho un impegno che non posso dimenticare.
+ASSISTANT: Aggiungilo subito al calendario con un alert.
+USER: Ho un’attività che richiede creatività.
+ASSISTANT: Cambia ambiente per stimolare nuove idee.
+USER: Devo gestire più scadenze.
+ASSISTANT: Ordinale per impatto e affronta la più critica.
+USER: Ho un compito che mi annoia.
+ASSISTANT: Imposta un timer breve e fai una pausa dopo.
+USER: Non riesco a decidere cosa fare prima.
+ASSISTANT: Scegli ciò che libera più energia una volta fatto.
+USER: Ho un impegno che richiede precisione.
+ASSISTANT: Lavora senza notifiche per 15 minuti.
+USER: Devo preparare un documento complesso.
+ASSISTANT: Parti dalla struttura e riempi un punto alla volta.
+USER: Ho un’attività che richiede tempo.
+ASSISTANT: Dedica un blocco fisso ogni giorno.
+USER: Non riesco a gestire la mole di lavoro.
+ASSISTANT: Elimina ciò che non è essenziale oggi.
+USER: Ho un compito urgente da fare.
+ASSISTANT: Inizia entro i prossimi 5 minuti.
+USER: Ho un impegno che continuo a rimandare.
+ASSISTANT: Fai solo il primo minuto.
+USER: Devo ricordarmi una cosa importante.
+ASSISTANT: Scrivila subito in un posto visibile.
+USER: Ho un’attività che mi stressa.
+ASSISTANT: Inizia dalla parte più semplice.
+USER: Non so quanto tempo dedicare a un compito.
+ASSISTANT: Prova 10 minuti e valuta dopo.
+USER: Ho un impegno che richiede energia.
+ASSISTANT: Fai una pausa breve prima di iniziare.
+USER: Devo organizzare la settimana.
+ASSISTANT: Identifica tre obiettivi principali.
+USER: Ho un compito che temo di sbagliare.
+ASSISTANT: Fai una bozza veloce senza giudicarti.
+USER: Ho un’attività che richiede ordine.
+ASSISTANT: Sistema l’essenziale prima di iniziare.
+USER: Non riesco a concentrarmi oggi.
+ASSISTANT: Lavora in blocchi da 10 minuti.
+USER: Ho un impegno che non posso spostare.
+ASSISTANT: Costruisci il resto della giornata attorno a quello.
+USER: Ho un compito che richiede attenzione.
+ASSISTANT: Tieni solo ciò che serve sulla scrivania.
+USER: Devo preparare una presentazione.
+ASSISTANT: Parti dai punti principali.
+USER: Ho un’attività che richiede calma.
+ASSISTANT: Falla nel momento della giornata in cui sei più lucido.
+USER: Ho un compito che mi mette ansia.
+ASSISTANT: Respira profondamente e fai il primo passo.
+USER: Devo ricordarmi una lista di cose.
+ASSISTANT: Scrivila subito e tienila a portata di mano.
+USER: Ho un’attività che richiede precisione.
+ASSISTANT: Lavora in un ambiente senza distrazioni.
+USER: Non so da dove iniziare oggi.
+ASSISTANT: Parti da ciò che ti dà più slancio.
+USER: Ho un compito che richiede creatività.
+ASSISTANT: Cambia prospettiva o luogo.
+USER: Ho un impegno che mi pesa.
+ASSISTANT: Premia te stesso dopo averlo completato.
+USER: Ho un’attività urgente.
+ASSISTANT: Dedicale i prossimi 15 minuti.
+USER: Non riesco a rispettare gli orari.
+ASSISTANT: Imposta un allarme 10 minuti prima.
+USER: Ho un compito che richiede concentrazione.
+ASSISTANT: Attiva la modalità aereo.
+USER: Devo organizzare gli spostamenti.
+ASSISTANT: Raggruppa gli impegni per zona.
+USER: Ho un’attività lunga.
+ASSISTANT: Spezzala in blocchi da 20 minuti.
+USER: Ho un compito che rimando da giorni.
+ASSISTANT: Fai solo il primo passo ora.
+USER: Ho un impegno importante.
+ASSISTANT: Prepara tre punti chiave.
+USER: Ho un’attività che richiede tempo.
+ASSISTANT: Dedica un blocco fisso ogni mattina.
+USER: Non riesco a gestire le interruzioni.
+ASSISTANT: Prevedi due finestre per recuperare.
+USER: Ho un compito che non so stimare.
+ASSISTANT: Prova per 5 minuti e valuta.
+USER: Ho un impegno che rischio di dimenticare.
+ASSISTANT: Aggiungilo al calendario con un alert.
+USER: Ho un’attività che richiede energia.
+ASSISTANT: Falla quando sei più fresco.
+USER: Ho un compito urgente da chiudere.
+ASSISTANT: Inizia subito dalla parte più semplice.
+USER: Ho un’attività che voglio finire oggi.
+ASSISTANT: Blocca un’ora dedicata solo a quella.
+USER: Ho un compito che richiede ordine mentale.
+ASSISTANT: Libera la scrivania da tutto il superfluo.
+USER: Devo preparare una scaletta.
+ASSISTANT: Scrivi tre punti essenziali.
+USER: Ho un’attività che richiede continuità.
+ASSISTANT: Dedica un blocco fisso ogni giorno alla stessa ora.
+USER: Ho un compito che mi mette pressione.
+ASSISTANT: Inizia dalla parte più semplice per sciogliere la tensione.
+USER: Non riesco a capire cosa sia urgente.
+ASSISTANT: Chiediti cosa succede se lo rimandi.
+USER: Ho un impegno che richiede puntualità.
+ASSISTANT: Imposta due allarmi distanziati.
+USER: Ho un’attività che richiede creatività.
+ASSISTANT: Fai una pausa breve per ossigenare la mente.
+USER: Ho un compito che richiede precisione.
+ASSISTANT: Lavora in un ambiente ordinato.
+USER: Devo ricordarmi un appuntamento.
+ASSISTANT: Aggiungilo al calendario con un promemoria.
+USER: Ho un’attività che richiede calma.
+ASSISTANT: Falla quando hai meno distrazioni.
+USER: Ho un compito che mi blocca.
+ASSISTANT: Spezzalo in micro‑passi.
+USER: Ho un impegno che non voglio fare.
+ASSISTANT: Dedica solo 5 minuti per iniziare.
+USER: Ho un’attività che richiede energia mentale.
+ASSISTANT: Falla nella tua ora migliore della giornata.
+USER: Non riesco a organizzare la mattina.
+ASSISTANT: Parti da un’attività semplice e veloce.
+USER: Ho un compito che richiede attenzione costante.
+ASSISTANT: Lavora in blocchi da 15 minuti.
+USER: Ho un impegno che temo di dimenticare.
+ASSISTANT: Scrivilo su un post‑it e mettilo davanti a te.
+USER: Ho un’attività che richiede ordine.
+ASSISTANT: Sistema il necessario prima di iniziare.
+USER: Ho un compito urgente.
+ASSISTANT: Inizia entro i prossimi 3 minuti.
+USER: Ho un impegno che richiede preparazione.
+ASSISTANT: Prepara tre punti chiave.
+USER: Ho un’attività che richiede calma mentale.
+ASSISTANT: Respira profondamente per 30 secondi.
+USER: Ho un compito che richiede creatività.
+ASSISTANT: Cambia posizione o luogo.
+USER: Ho un impegno che mi mette ansia.
+ASSISTANT: Inizia dalla parte più semplice.
+USER: Ho un’attività che richiede tempo.
+ASSISTANT: Dedica un blocco fisso oggi.
+USER: Ho un compito che non so come affrontare.
+ASSISTANT: Scrivi tre passi possibili e fai il primo.
+USER: Ho un impegno che non posso rimandare.
+ASSISTANT: Blocca subito il tempo necessario.
+USER: Ho un’attività che richiede concentrazione profonda.
+ASSISTANT: Lavora senza telefono per 20 minuti.
+USER: Ho un compito che richiede chiarezza.
+ASSISTANT: Scrivi cosa devi ottenere in una frase.
+USER: Ho un impegno che richiede puntualità assoluta.
+ASSISTANT: Prevedi un margine di 10 minuti.
+USER: Ho un’attività che richiede precisione.
+ASSISTANT: Lavora lentamente e senza fretta.
+USER: Ho un compito che mi pesa molto.
+ASSISTANT: Fai solo il primo passo per sbloccare la mente.
