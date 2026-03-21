@@ -1,17 +1,19 @@
-Hi, I’m Guido, and this is my LLM project.
+Hi, I’m Guido,i'm 12 and this is my LLM project.
 
-This is Eisi, an open‑source AI designed to help with programming, especially Python.
+This is Eisi, an open‑source AI designed. It can help we to organize appointments.
 It’s still in alpha version, so performance is limited and not guaranteed to work in every situation.
+
+HE CAN'T SPEAK NOW ENGLISH. IT CAN SPEAK ONLY ITALIAN.
 
 ---
 
 ⚠️ Important notes
 
-The dataset is focused only on programming and Python.
+The dataset is focused only to organize appointments.
 General-purpose use is not recommended yet.
 The model is incomplete and still experimental.
 This project ist open-source
-To run Eisi correctly, you must download all files. Missing files will cause errors.
+To run Eisi correctly, you must download all files or clone repository with Terminal. Missing files will cause errors.
 Eisi must be run on Python 3.13.0. Other versions are not supported and may cause unexpected behavior.
 
 ---
@@ -27,7 +29,7 @@ This is just the beginning — the final version will be much more complete.
 
 ## 🛠️ How to install Eisi
 
-To install **Eisi**, you must first clone the repository directly from your terminal.  
+To install **Eisi**, you must first clone the repository directly from your terminal or download the file and open in that a terminal.  
 Open the integrated terminal of your code editor (for example, Visual Studio Code) and run:
 
 ```
