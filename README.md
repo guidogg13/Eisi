@@ -3,7 +3,7 @@ Hi, I’m Guido,i'm 12 and this is my LLM project.
 This is Eisi, an open‑source AI designed. It can help we to organize appointments.
 It’s still in alpha version, so performance is limited and not guaranteed to work in every situation.
 
-HE CAN'T SPEAK NOW ENGLISH. IT CAN SPEAK ONLY ITALIAN.
+HE CAN SPEAK NOW ENGLISH
 
 ---
 
