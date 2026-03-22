@@ -1,6 +1,6 @@
 Hi, I’m Guido,i'm 12 and this is my LLM project.
 
-This is Eisi, an open‑source AI designed. It can help we to organize appointments.
+This is Eisi, an open‑source AI designed. It can help as to organize appointments.
 It’s still in alpha version, so performance is limited and not guaranteed to work in every situation.
 
 HE CAN SPEAK NOW ENGLISH
@@ -42,7 +42,7 @@ Once the download is complete, enter the project folder:
 cd Eisi
 ```
 
-From here, make sure you have Python 3.13.0 installed, then install all the required libraries exactly as listed in the instructions above.  
+From here, make sure you have Python 3.13.0 installed, then install all the required libraries exactly as listed in the instructions below.  
 Every installation step must be executed from the terminal of your editor.
 
 After completing the setup, you can run and test Eisi.  
