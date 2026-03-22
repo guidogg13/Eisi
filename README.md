@@ -1,59 +1,46 @@
-Hi, I’m Guido,i'm 12 and this is my LLM project.
+Hi, I'm Guido, I'm 12 and this is my LLM project.
+This is Eisi, an open-source AI designed to help you organize your appointments.
+It's still in alpha, so performance is limited and not guaranteed to work in every situation.
 
-This is Eisi, an open‑source AI designed. It can help as to organize appointments.
-It’s still in alpha version, so performance is limited and not guaranteed to work in every situation.
+🗣️ Eisi can now speak English!
 
-HE CAN SPEAK NOW ENGLISH
 
----
+⚠️ Important Notes
 
-⚠️ Important notes
-
-The dataset is focused only to organize appointments.
+The dataset is focused only on organizing appointments.
 General-purpose use is not recommended yet.
 The model is incomplete and still experimental.
-This project ist open-source
-To run Eisi correctly, you must download all files or clone repository with Terminal. Missing files will cause errors.
+This project is open-source.
+To run Eisi correctly, you must download all files or clone the repository. Missing files will cause errors.
 Eisi must be run on Python 3.13.0. Other versions are not supported and may cause unexpected behavior.
 
----
 
 🔧 Customization
-
 You can replace the dataset with your own if you want.
 Everything here is free to use, modify, and experiment with.
-
 This is just the beginning — the final version will be much more complete.
 
----
-
-## 🛠️ How to install Eisi
-
-To install **Eisi**, you must first clone the repository directly from your terminal or download the file and open in that a terminal.  
-Open the integrated terminal of your code editor (for example, Visual Studio Code) and run:
+🛠️ How to Install Eisi
+Clone the repository from your terminal:
 
 ```
 git clone https://github.com/tuo-username/Eisi.git
 ```
 
-Once the download is complete, enter the project folder:
+Enter the project folder:
 
 ```
 cd Eisi
 ```
 
-From here, make sure you have Python 3.13.0 installed, then install all the required libraries exactly as listed in the instructions below.  
-Every installation step must be executed from the terminal of your editor.
+Make sure you have Python 3.13.0 installed, then install all required libraries as listed below.
 
-After completing the setup, you can run and test Eisi.  
-Because this project is still experimental and requires manual configuration, testing is recommended only for experienced users who are comfortable with Python environments, dependencies, and debugging.
+⚠️ Testing is recommended only for users comfortable with Python environments and debugging.
 
----
 
 📦 Library Installation Instructions
+When you download the project, open it in an editor such as Visual Studio Code.
 
-When you download the entire project, open it in an editor such as Visual Studio Code.
-Some modules are part of the Python Standard Library, while others must be installed manually.
 
 ---
 
@@ -92,17 +79,11 @@ pip install torch
 pip install pytorch
 ```
 
-than...
-
+Then create and activate a virtual environment:
 ```
 python -m venv venv
-```
-
-to end...
-
-```
 venv\Scripts\activate
-```
+``
 
 🍏 On macOS
 
@@ -116,21 +97,16 @@ pip3 install pytorch
 python3 -m venv venv
 ```
 
-than...
+Then create and activate a virtual environment:
 
 ```
 python -m venv venv
-```
-
-to end...
-
-```
 source venv/bin/activate
 ```
 
 🐧 On Linux
 
-Same as macOS — use pip3:
+Use pip3, since this project requires Python 3 only:
 
 ```
 pip3 install torch  
@@ -140,15 +116,10 @@ pip3 install pytorch
 python3 -m venv venv
 ```
 
-than...
+Then create and activate a virtual environment:
 
 ```
 python -m venv venv
-```
-
-to end...
-
-```
 source venv/bin/activate
 ```
 
@@ -156,18 +127,11 @@ source venv/bin/activate
 
 🧨 Final Notes
 
-To run Eisi correctly, you must install all the modules and libraries listed above, without exceptions.
-Every installation step must be executed from the terminal of your code editor (for example, the integrated terminal in Visual Studio Code).
-
-Because this project is still in an early alpha stage, with a limited dataset and experimental behavior,
-Eisi is recommended only for experienced users and developers who know how to handle errors, missing dependencies, and manual setup.
-
+Install all modules and libraries listed above without exceptions.
+Run every installation step from your terminal or the integrated terminal in your code editor (e.g. Visual Studio Code).
+This project is in early alpha with a limited dataset and experimental behavior — recommended only for users comfortable with errors, dependencies, and manual setup.
 If you are an advanced user, feel free to test, modify, and improve the project — every contribution helps Eisi grow.
 
----
 
-📄 Licenze
-
-This project uses the MIT license. You are free to use, modify, distribute, and experiment with the code, following the terms of the MIT license.
-
-This project have a licenze: MIT
+📄 License
+This project is licensed under the MIT License. You are free to use, modify, distribute, and experiment with the code under its terms.
