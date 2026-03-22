@@ -1,424 +1,401 @@
-USER: Ho troppe cose da fare oggi.
-ASSISTANT: Parti da quella che richiede meno di 5 minuti.
-USER: Non so quale attività iniziare.
-ASSISTANT: Scegli quella con la scadenza più vicina.
-USER: Ho paura di dimenticare un impegno.
-ASSISTANT: Aggiungilo subito al calendario.
-USER: Mi sento sopraffatto dagli impegni.
-ASSISTANT: Scrivi una lista e affronta un punto alla volta.
-USER: Non riesco a iniziare un compito difficile.
-ASSISTANT: Fai solo il primo passo, anche minuscolo.
-USER: Ho una scadenza importante domani.
-ASSISTANT: Dedica 20 minuti ora alla parte più semplice.
-USER: Devo organizzare la giornata.
-ASSISTANT: Raggruppa attività simili e falla scorrere.
-USER: Ho un impegno che continuo a rimandare.
-ASSISTANT: Imposta un timer da 10 minuti e inizia.
-USER: Non riesco a concentrarmi.
-ASSISTANT: Elimina le distrazioni per i prossimi 15 minuti.
-USER: Ho troppe email da leggere.
-ASSISTANT: Fai un triage: urgenti, importanti, ignorabili.
-USER: Devo preparare una riunione.
-ASSISTANT: Scrivi tre punti chiave e parti da quelli.
-USER: Ho un compito urgente.
-ASSISTANT: Blocca 20 minuti ora e affrontalo subito.
-USER: Non so quanto tempo mi servirà.
-ASSISTANT: Stima e poi dimezza: spesso basta meno.
-USER: Ho un’attività lunga.
-ASSISTANT: Spezzala in blocchi da 15 minuti.
-USER: Devo ricordarmi una chiamata.
-ASSISTANT: Imposta un promemoria 10 minuti prima.
-USER: Ho un impegno che mi stressa.
-ASSISTANT: Inizia dalla parte più semplice.
-USER: Non riesco a gestire le interruzioni.
-ASSISTANT: Prevedi due finestre al giorno per recuperare.
-USER: Ho un compito che richiede precisione.
-ASSISTANT: Dedica un blocco senza notifiche.
-USER: Devo preparare un documento.
-ASSISTANT: Scrivi prima la struttura.
-USER: Ho un’attività che non voglio fare.
-ASSISTANT: Falla per soli 5 minuti.
-USER: Ho una giornata piena.
-ASSISTANT: Identifica l’unica cosa davvero essenziale.
-USER: Devo incastrare più impegni.
-ASSISTANT: Ordinali per durata e affronta i più brevi.
-USER: Ho un compito creativo.
-ASSISTANT: Prenditi 3 minuti per schiarire la mente.
-USER: Non so da dove iniziare.
-ASSISTANT: Parti da ciò che ti dà più slancio.
-USER: Ho un impegno ricorrente.
-ASSISTANT: Trasformalo in appuntamento fisso.
-USER: Ho un’attività urgente e una importante.
-ASSISTANT: Fai prima l’urgente.
-USER: Devo preparare un report.
-ASSISTANT: Raccogli prima i dati.
-USER: Ho un compito che richiede calma.
-ASSISTANT: Fai una pausa breve e poi inizia.
-USER: Ho paura di non finire in tempo.
-ASSISTANT: Completa la versione minima.
-USER: Ho un impegno che rischio di dimenticare.
-ASSISTANT: Scrivilo ora in agenda.
-USER: Ho troppe cose in testa.
-ASSISTANT: Fai un brain dump di 2 minuti.
-USER: Non riesco a rispettare gli orari.
-ASSISTANT: Imposta un allarme 10 minuti prima.
-USER: Ho un compito che richiede concentrazione.
-ASSISTANT: Lavora in modalità aereo.
-USER: Devo organizzare gli spostamenti.
-ASSISTANT: Raggruppa gli impegni per zona.
-USER: Ho un’attività che mi annoia.
-ASSISTANT: Alternala con qualcosa di piacevole.
-USER: Ho un compito che rimando sempre.
-ASSISTANT: Fai solo il primo minuto.
-USER: Non so cosa sia prioritario.
-ASSISTANT: Chiediti cosa succede se lo rimandi.
-USER: Ho un impegno che non posso spostare.
-ASSISTANT: Costruisci la giornata attorno a quello.
-USER: Ho un’attività che richiede energia.
-ASSISTANT: Falla quando sei più fresco.
-USER: Ho un compito che mi mette ansia.
-ASSISTANT: Respira 30 secondi e inizia dal minimo.
-USER: Devo preparare una presentazione.
-ASSISTANT: Parti dalla scaletta.
-USER: Ho un’attività che richiede ordine.
-ASSISTANT: Sistema l’essenziale prima di iniziare.
-USER: Ho un compito che temo di sbagliare.
-ASSISTANT: Fai una bozza veloce.
-USER: Ho un impegno importante.
-ASSISTANT: Prepara 3 punti chiave.
-USER: Ho un’attività che richiede tempo.
-ASSISTANT: Dedica un blocco fisso ogni giorno.
-USER: Ho un compito che non so stimare.
-ASSISTANT: Prova per 10 minuti e valuta.
-USER: Ho un impegno che mi pesa.
-ASSISTANT: Premia te stesso dopo averlo fatto.
-USER: Ho un’attività che richiede attenzione.
-ASSISTANT: Lavora in un ambiente senza distrazioni.
-USER: Ho un compito urgente.
-ASSISTANT: Inizia entro i prossimi 5 minuti.
-USER: Ho un’attività che voglio finire oggi.
-ASSISTANT: Blocca un’ora dedicata solo a quella.
-USER: Ho un compito che richiede molta attenzione.
-ASSISTANT: Lavora per 15 minuti senza notifiche.
-USER: Devo ricordarmi una scadenza entro oggi.
-ASSISTANT: Imposta un promemoria immediato.
-USER: Ho troppe attività aperte.
-ASSISTANT: Chiudi quella che puoi completare in meno tempo.
-USER: Non riesco a iniziare il lavoro.
-ASSISTANT: Parti da un’attività semplice per sbloccarti.
-USER: Ho un impegno che mi mette pressione.
-ASSISTANT: Suddividilo in micro‑passi e fai il primo.
-USER: Devo preparare una lista di priorità.
-ASSISTANT: Scrivi solo le tre più importanti.
-USER: Ho un compito che richiede calma.
-ASSISTANT: Prenditi due minuti per respirare e poi inizia.
-USER: Non so come organizzare il pomeriggio.
-ASSISTANT: Alterna un’attività impegnativa a una leggera.
-USER: Ho un impegno che non posso dimenticare.
-ASSISTANT: Aggiungilo subito al calendario con un alert.
-USER: Ho un’attività che richiede creatività.
-ASSISTANT: Cambia ambiente per stimolare nuove idee.
-USER: Devo gestire più scadenze.
-ASSISTANT: Ordinale per impatto e affronta la più critica.
-USER: Ho un compito che mi annoia.
-ASSISTANT: Imposta un timer breve e fai una pausa dopo.
-USER: Non riesco a decidere cosa fare prima.
-ASSISTANT: Scegli ciò che libera più energia una volta fatto.
-USER: Ho un impegno che richiede precisione.
-ASSISTANT: Lavora senza notifiche per 15 minuti.
-USER: Devo preparare un documento complesso.
-ASSISTANT: Parti dalla struttura e riempi un punto alla volta.
-USER: Ho un’attività che richiede tempo.
-ASSISTANT: Dedica un blocco fisso ogni giorno.
-USER: Non riesco a gestire la mole di lavoro.
-ASSISTANT: Elimina ciò che non è essenziale oggi.
-USER: Ho un compito urgente da fare.
-ASSISTANT: Inizia entro i prossimi 5 minuti.
-USER: Ho un impegno che continuo a rimandare.
-ASSISTANT: Fai solo il primo minuto.
-USER: Devo ricordarmi una cosa importante.
-ASSISTANT: Scrivila subito in un posto visibile.
-USER: Ho un’attività che mi stressa.
-ASSISTANT: Inizia dalla parte più semplice.
-USER: Non so quanto tempo dedicare a un compito.
-ASSISTANT: Prova 10 minuti e valuta dopo.
-USER: Ho un impegno che richiede energia.
-ASSISTANT: Fai una pausa breve prima di iniziare.
-USER: Devo organizzare la settimana.
-ASSISTANT: Identifica tre obiettivi principali.
-USER: Ho un compito che temo di sbagliare.
-ASSISTANT: Fai una bozza veloce senza giudicarti.
-USER: Ho un’attività che richiede ordine.
-ASSISTANT: Sistema l’essenziale prima di iniziare.
-USER: Non riesco a concentrarmi oggi.
-ASSISTANT: Lavora in blocchi da 10 minuti.
-USER: Ho un impegno che non posso spostare.
-ASSISTANT: Costruisci il resto della giornata attorno a quello.
-USER: Ho un compito che richiede attenzione.
-ASSISTANT: Tieni solo ciò che serve sulla scrivania.
-USER: Devo preparare una presentazione.
-ASSISTANT: Parti dai punti principali.
-USER: Ho un’attività che richiede calma.
-ASSISTANT: Falla nel momento della giornata in cui sei più lucido.
-USER: Ho un compito che mi mette ansia.
-ASSISTANT: Respira profondamente e fai il primo passo.
-USER: Devo ricordarmi una lista di cose.
-ASSISTANT: Scrivila subito e tienila a portata di mano.
-USER: Ho un’attività che richiede precisione.
-ASSISTANT: Lavora in un ambiente senza distrazioni.
-USER: Non so da dove iniziare oggi.
-ASSISTANT: Parti da ciò che ti dà più slancio.
-USER: Ho un compito che richiede creatività.
-ASSISTANT: Cambia prospettiva o luogo.
-USER: Ho un impegno che mi pesa.
-ASSISTANT: Premia te stesso dopo averlo completato.
-USER: Ho un’attività urgente.
-ASSISTANT: Dedicale i prossimi 15 minuti.
-USER: Non riesco a rispettare gli orari.
-ASSISTANT: Imposta un allarme 10 minuti prima.
-USER: Ho un compito che richiede concentrazione.
-ASSISTANT: Attiva la modalità aereo.
-USER: Devo organizzare gli spostamenti.
-ASSISTANT: Raggruppa gli impegni per zona.
-USER: Ho un’attività lunga.
-ASSISTANT: Spezzala in blocchi da 20 minuti.
-USER: Ho un compito che rimando da giorni.
-ASSISTANT: Fai solo il primo passo ora.
-USER: Ho un impegno importante.
-ASSISTANT: Prepara tre punti chiave.
-USER: Ho un’attività che richiede tempo.
-ASSISTANT: Dedica un blocco fisso ogni mattina.
-USER: Non riesco a gestire le interruzioni.
-ASSISTANT: Prevedi due finestre per recuperare.
-USER: Ho un compito che non so stimare.
-ASSISTANT: Prova per 5 minuti e valuta.
-USER: Ho un impegno che rischio di dimenticare.
-ASSISTANT: Aggiungilo al calendario con un alert.
-USER: Ho un’attività che richiede energia.
-ASSISTANT: Falla quando sei più fresco.
-USER: Ho un compito urgente da chiudere.
-ASSISTANT: Inizia subito dalla parte più semplice.
-USER: Ho un’attività che voglio finire oggi.
-ASSISTANT: Blocca un’ora dedicata solo a quella.
-USER: Ho un compito che richiede ordine mentale.
-ASSISTANT: Libera la scrivania da tutto il superfluo.
-USER: Devo preparare una scaletta.
-ASSISTANT: Scrivi tre punti essenziali.
-USER: Ho un’attività che richiede continuità.
-ASSISTANT: Dedica un blocco fisso ogni giorno alla stessa ora.
-USER: Ho un compito che mi mette pressione.
-ASSISTANT: Inizia dalla parte più semplice per sciogliere la tensione.
-USER: Non riesco a capire cosa sia urgente.
-ASSISTANT: Chiediti cosa succede se lo rimandi.
-USER: Ho un impegno che richiede puntualità.
-ASSISTANT: Imposta due allarmi distanziati.
-USER: Ho un’attività che richiede creatività.
-ASSISTANT: Fai una pausa breve per ossigenare la mente.
-USER: Ho un compito che richiede precisione.
-ASSISTANT: Lavora in un ambiente ordinato.
-USER: Devo ricordarmi un appuntamento.
-ASSISTANT: Aggiungilo al calendario con un promemoria.
-USER: Ho un’attività che richiede calma.
-ASSISTANT: Falla quando hai meno distrazioni.
-USER: Ho un compito che mi blocca.
-ASSISTANT: Spezzalo in micro‑passi.
-USER: Ho un impegno che non voglio fare.
-ASSISTANT: Dedica solo 5 minuti per iniziare.
-USER: Ho un’attività che richiede energia mentale.
-ASSISTANT: Falla nella tua ora migliore della giornata.
-USER: Non riesco a organizzare la mattina.
-ASSISTANT: Parti da un’attività semplice e veloce.
-USER: Ho un compito che richiede attenzione costante.
-ASSISTANT: Lavora in blocchi da 15 minuti.
-USER: Ho un impegno che temo di dimenticare.
-ASSISTANT: Scrivilo su un post‑it e mettilo davanti a te.
-USER: Ho un’attività che richiede ordine.
-ASSISTANT: Sistema il necessario prima di iniziare.
-USER: Ho un compito urgente.
-ASSISTANT: Inizia entro i prossimi 3 minuti.
-USER: Ho un impegno che richiede preparazione.
-ASSISTANT: Prepara tre punti chiave.
-USER: Ho un’attività che richiede calma mentale.
-ASSISTANT: Respira profondamente per 30 secondi.
-USER: Ho un compito che richiede creatività.
-ASSISTANT: Cambia posizione o luogo.
-USER: Ho un impegno che mi mette ansia.
-ASSISTANT: Inizia dalla parte più semplice.
-USER: Ho un’attività che richiede tempo.
-ASSISTANT: Dedica un blocco fisso oggi.
-USER: Ho un compito che non so come affrontare.
-ASSISTANT: Scrivi tre passi possibili e fai il primo.
-USER: Ho un impegno che non posso rimandare.
-ASSISTANT: Blocca subito il tempo necessario.
-USER: Ho un’attività che richiede concentrazione profonda.
-ASSISTANT: Lavora senza telefono per 20 minuti.
-USER: Ho un compito che richiede chiarezza.
-ASSISTANT: Scrivi cosa devi ottenere in una frase.
-USER: Ho un impegno che richiede puntualità assoluta.
-ASSISTANT: Prevedi un margine di 10 minuti.
-USER: Ho un’attività che richiede precisione.
-ASSISTANT: Lavora lentamente e senza fretta.
-USER: Ho un compito che mi pesa molto.
-ASSISTANT: Fai solo il primo passo per sbloccare la mente.
-USER: Ho un compito che richiede molta concentrazione.
-ASSISTANT: Lavora per 20 minuti senza interruzioni.
-USER: Devo ricordarmi una scadenza entro stasera.
-ASSISTANT: Imposta un promemoria immediato.
-USER: Ho troppe attività in sospeso.
-ASSISTANT: Chiudi quella che puoi completare più velocemente.
-USER: Non riesco a iniziare la giornata.
-ASSISTANT: Parti da un’attività semplice per sbloccarti.
-USER: Ho un impegno che mi mette pressione.
-ASSISTANT: Suddividilo in micro‑passi e fai il primo.
-USER: Devo preparare una lista di priorità.
-ASSISTANT: Scrivi solo le tre più importanti.
-USER: Ho un compito che richiede calma.
-ASSISTANT: Prenditi due minuti per respirare e poi inizia.
-USER: Non so come organizzare il pomeriggio.
-ASSISTANT: Alterna un’attività impegnativa a una leggera.
-USER: Ho un impegno che non posso dimenticare.
-ASSISTANT: Aggiungilo subito al calendario con un alert.
-USER: Ho un’attività che richiede creatività.
-ASSISTANT: Cambia ambiente per stimolare nuove idee.
-USER: Devo gestire più scadenze.
-ASSISTANT: Ordinale per impatto e affronta la più critica.
-USER: Ho un compito che mi annoia.
-ASSISTANT: Imposta un timer breve e fai una pausa dopo.
-USER: Non riesco a decidere cosa fare prima.
-ASSISTANT: Scegli ciò che libera più energia una volta fatto.
-USER: Ho un impegno che richiede precisione.
-ASSISTANT: Lavora senza notifiche per 15 minuti.
-USER: Devo preparare un documento complesso.
-ASSISTANT: Parti dalla struttura e riempi un punto alla volta.
-USER: Ho un’attività che richiede tempo.
-ASSISTANT: Dedica un blocco fisso ogni giorno.
-USER: Non riesco a gestire la mole di lavoro.
-ASSISTANT: Elimina ciò che non è essenziale oggi.
-USER: Ho un compito urgente da fare.
-ASSISTANT: Inizia entro i prossimi 5 minuti.
-USER: Ho un impegno che continuo a rimandare.
-ASSISTANT: Fai solo il primo minuto.
-USER: Devo ricordarmi una cosa importante.
-ASSISTANT: Scrivila subito in un posto visibile.
-USER: Ho un’attività che mi stressa.
-ASSISTANT: Inizia dalla parte più semplice.
-USER: Non so quanto tempo dedicare a un compito.
-ASSISTANT: Prova 10 minuti e valuta dopo.
-USER: Ho un impegno che richiede energia.
-ASSISTANT: Fai una pausa breve prima di iniziare.
-USER: Devo organizzare la settimana.
-ASSISTANT: Identifica tre obiettivi principali.
-USER: Ho un compito che temo di sbagliare.
-ASSISTANT: Fai una bozza veloce senza giudicarti.
-USER: Ho un’attività che richiede ordine.
-ASSISTANT: Sistema l’essenziale prima di iniziare.
-USER: Non riesco a concentrarmi oggi.
-ASSISTANT: Lavora in blocchi da 10 minuti.
-USER: Ho un impegno che non posso spostare.
-ASSISTANT: Costruisci il resto della giornata attorno a quello.
-USER: Ho un compito che richiede attenzione.
-ASSISTANT: Tieni solo ciò che serve sulla scrivania.
-USER: Devo preparare una presentazione.
-ASSISTANT: Parti dai punti principali.
-USER: Ho un’attività che richiede calma.
-ASSISTANT: Falla nel momento della giornata in cui sei più lucido.
-USER: Ho un compito che mi mette ansia.
-ASSISTANT: Respira profondamente e fai il primo passo.
-USER: Devo ricordarmi una lista di cose.
-ASSISTANT: Scrivila subito e tienila a portata di mano.
-USER: Ho un’attività che richiede precisione.
-ASSISTANT: Lavora in un ambiente senza distrazioni.
-USER: Non so da dove iniziare oggi.
-ASSISTANT: Parti da ciò che ti dà più slancio.
-USER: Ho un compito che richiede creatività.
-ASSISTANT: Cambia prospettiva o luogo.
-USER: Ho un impegno che mi pesa.
-ASSISTANT: Premia te stesso dopo averlo completato.
-USER: Ho un’attività urgente.
-ASSISTANT: Dedicale i prossimi 15 minuti.
-USER: Non riesco a rispettare gli orari.
-ASSISTANT: Imposta un allarme 10 minuti prima.
-USER: Ho un compito che richiede concentrazione.
-ASSISTANT: Attiva la modalità aereo.
-USER: Devo organizzare gli spostamenti.
-ASSISTANT: Raggruppa gli impegni per zona.
-USER: Ho un’attività lunga.
-ASSISTANT: Spezzala in blocchi da 20 minuti.
-USER: Ho un compito che rimando da giorni.
-ASSISTANT: Fai solo il primo passo ora.
-USER: Ho un impegno importante.
-ASSISTANT: Prepara tre punti chiave.
-USER: Ho un’attività che richiede tempo.
-ASSISTANT: Dedica un blocco fisso ogni mattina.
-USER: Non riesco a gestire le interruzioni.
-ASSISTANT: Prevedi due finestre per recuperare.
-USER: Ho un compito che non so stimare.
-ASSISTANT: Prova per 5 minuti e valuta.
-USER: Ho un impegno che rischio di dimenticare.
-ASSISTANT: Aggiungilo al calendario con un alert.
-USER: Ho un’attività che richiede energia.
-ASSISTANT: Falla quando sei più fresco.
-USER: Ho un compito urgente da chiudere.
-ASSISTANT: Inizia subito dalla parte più semplice.
-USER: Ho un’attività che voglio finire oggi.
-ASSISTANT: Blocca un’ora dedicata solo a quella.
-USER: Ho un compito che richiede ordine mentale.
-ASSISTANT: Libera la scrivania da tutto il superfluo.
-USER: Devo preparare una scaletta.
-ASSISTANT: Scrivi tre punti essenziali.
-USER: Ho un’attività che richiede continuità.
-ASSISTANT: Dedica un blocco fisso ogni giorno alla stessa ora.
-USER: Ho un compito che mi mette pressione.
-ASSISTANT: Inizia dalla parte più semplice per sciogliere la tensione.
-USER: Non riesco a capire cosa sia urgente.
-ASSISTANT: Chiediti cosa succede se lo rimandi.
-USER: Ho un impegno che richiede puntualità.
-ASSISTANT: Imposta due allarmi distanziati.
-USER: Ho un’attività che richiede creatività.
-ASSISTANT: Fai una pausa breve per ossigenare la mente.
-USER: Ho un compito che richiede precisione.
-ASSISTANT: Lavora in un ambiente ordinato.
-USER: Devo ricordarmi un appuntamento.
-ASSISTANT: Aggiungilo al calendario con un promemoria.
-USER: Ho un’attività che richiede calma.
-ASSISTANT: Falla quando hai meno distrazioni.
-USER: Ho un compito che mi blocca.
-ASSISTANT: Spezzalo in micro‑passi.
-USER: Ho un impegno che non voglio fare.
-ASSISTANT: Dedica solo 5 minuti per iniziare.
-USER: Ho un’attività che richiede energia mentale.
-ASSISTANT: Falla nella tua ora migliore della giornata.
-USER: Non riesco a organizzare la mattina.
-ASSISTANT: Parti da un’attività semplice e veloce.
-USER: Ho un compito che richiede attenzione costante.
-ASSISTANT: Lavora in blocchi da 15 minuti.
-USER: Ho un impegno che temo di dimenticare.
-ASSISTANT: Scrivilo su un post‑it e mettilo davanti a te.
-USER: Ho un’attività che richiede ordine.
-ASSISTANT: Sistema il necessario prima di iniziare.
-USER: Ho un compito urgente.
-ASSISTANT: Inizia entro i prossimi 3 minuti.
-USER: Ho un impegno che richiede preparazione.
-ASSISTANT: Prepara tre punti chiave.
-USER: Ho un’attività che richiede calma mentale.
-ASSISTANT: Respira profondamente per 30 secondi.
-USER: Ho un compito che richiede creatività.
-ASSISTANT: Cambia posizione o luogo.
-USER: Ho un impegno che mi mette ansia.
-ASSISTANT: Inizia dalla parte più semplice.
-USER: Ho un’attività che richiede tempo.
-ASSISTANT: Dedica un blocco fisso oggi.
-USER: Ho un compito che non so come affrontare.
-ASSISTANT: Scrivi tre passi possibili e fai il primo.
-USER: Ho un impegno che non posso rimandare.
-ASSISTANT: Blocca subito il tempo necessario.
-USER: Ho un’attività che richiede concentrazione profonda.
-ASSISTANT: Lavora senza telefono per 20 minuti.
-USER: Ho un compito che richiede chiarezza.
-ASSISTANT: Scrivi cosa devi ottenere in una frase.
-USER: Ho un impegno che richiede puntualità assoluta.
-ASSISTANT: Prevedi un margine di 10 minuti.
-USER: Ho un’attività che richiede precisione.
-ASSISTANT: Lavora lentamente e senza fretta.
-USER: Ho un compito che mi pesa molto.
-ASSISTANT: Fai solo il primo passo per sbloccare la mente.
+USER: add a meeting tomorrow at 10
+AI: Done! I've added a meeting for tomorrow at 10:00 AM.
+
+USER: remind me to call Mario on Friday at 3:30 PM
+AI: Got it! I'll remind you to call Mario on Friday at 3:30 PM.
+
+USER: what do I have today?
+AI: Let me check your schedule for today!
+
+USER: move Monday's meeting to Tuesday
+AI: Sure! I've moved your meeting from Monday to Tuesday.
+
+USER: delete the dentist appointment
+AI: Done! The dentist appointment has been removed from your calendar.
+
+USER: add yoga every Monday at 6 PM
+AI: Perfect! I've added a recurring yoga session every Monday at 6:00 PM.
+
+USER: am I free on Thursday afternoon?
+AI: Let me check... Thursday afternoon looks free for you!
+
+USER: what's my next appointment?
+AI: Let me look that up for you right away!
+
+USER: how many tasks do I have this week?
+AI: Let me count your appointments for this week!
+
+USER: cancel everything for tomorrow
+AI: Are you sure you want to cancel all your appointments for tomorrow? Please confirm and I'll take care of it.
+
+USER: add a team meeting every Monday and Wednesday at 9 AM
+AI: Done! I've added a recurring team meeting every Monday and Wednesday at 9:00 AM.
+
+USER: add Anna's birthday on April 12th
+AI: Got it! I've added Anna's birthday on April 12th as a yearly recurring event.
+
+USER: show me tomorrow's schedule
+AI: Here are your appointments for tomorrow!
+
+USER: add lunch break from 1 PM to 2 PM every weekday
+AI: Perfect! I've blocked your lunch break from 1:00 PM to 2:00 PM every weekday.
+
+USER: I have a doctor's appointment on Thursday at 9 AM
+AI: Noted! I've added your doctor's appointment for Thursday at 9:00 AM.
+
+USER: add English class on Wednesday at 8 PM
+AI: Done! I've added your English class every Wednesday at 8:00 PM.
+
+USER: when am I free this week?
+AI: Let me check your availability for this week!
+
+USER: cancel all Saturday appointments
+AI: Are you sure you want to remove all Saturday appointments? Confirm and I'll delete them.
+
+USER: add a client call on Wednesday at 11 AM
+AI: Done! I've scheduled a client call for Wednesday at 11:00 AM.
+
+USER: rename tomorrow's meeting to standup
+AI: Got it! Tomorrow's meeting has been renamed to Standup.
+
+USER: add a reminder to go to the pharmacy tomorrow morning
+AI: Sure! I'll remind you about the pharmacy tomorrow morning.
+
+USER: I finished the 10 AM meeting
+AI: Great job! I've marked the 10:00 AM meeting as completed.
+
+USER: add a company event on Friday, all day
+AI: Done! I've added the company event for all day Friday.
+
+USER: move yoga from Monday to Thursday
+AI: No problem! I've moved your yoga session from Monday to Thursday.
+
+USER: show me next week
+AI: Here's what you have scheduled for next week!
+
+USER: add a report deadline on Friday at 5 PM, high priority
+AI: Got it! I've added the report deadline on Friday at 5:00 PM with high priority.
+
+USER: I have an urgent appointment on Monday morning
+AI: Understood! I've added an urgent appointment for Monday morning.
+
+USER: cancel Wednesday's call
+AI: Done! The call on Wednesday has been removed.
+
+USER: remind me to pay bills on the first of every month
+AI: Perfect! I'll remind you to pay the bills on the first of every month.
+
+USER: what do I have on Monday?
+AI: Here are your appointments for Monday!
+
+USER: add dentist on Tuesday at 4:30 PM
+AI: Done! I've scheduled your dentist appointment for Tuesday at 4:30 PM.
+
+USER: mark the appointment with Mario as done
+AI: Got it! The appointment with Mario has been marked as completed.
+
+USER: add a code review on Thursday at 2 PM
+AI: Sure! I've added the code review for Thursday at 2:00 PM.
+
+USER: move the 9 AM meeting to 11 AM
+AI: Done! I've moved your meeting from 9:00 AM to 11:00 AM.
+
+USER: do I have anything urgent this week?
+AI: Let me check your high priority items for this week!
+
+USER: add gym every Tuesday and Thursday at 7 AM
+AI: Perfect! I've added gym sessions every Tuesday and Thursday at 7:00 AM.
+
+USER: delete all this week's reminders
+AI: Are you sure you want to delete all reminders for this week? Confirm and I'll remove them.
+
+USER: add a note to tomorrow's meeting: bring the laptop
+AI: Done! I've added the note "bring the laptop" to tomorrow's meeting.
+
+USER: how many hours of meetings do I have today?
+AI: Let me calculate your total meeting time for today!
+
+USER: add daily scrum every weekday at 9:15 AM
+AI: Done! Daily scrum has been set every weekday at 9:15 AM.
+
+USER: show me only urgent appointments
+AI: Here are all your high priority appointments!
+
+USER: add anniversary with Giulia on June 3rd
+AI: Sweet! I've added your anniversary with Giulia on June 3rd as a yearly event.
+
+USER: I have a job interview on Friday at 10:30 AM
+AI: Got it! I've added your job interview for Friday at 10:30 AM with high priority.
+
+USER: remind me to send the invoice at the end of every month
+AI: Sure! I'll remind you to send the invoice at the end of every month.
+
+USER: move everything from tomorrow to the day after
+AI: Are you sure you want to move all tomorrow's appointments? Confirm and I'll reschedule them.
+
+USER: what's on my schedule this week?
+AI: Here's your full schedule for this week!
+
+USER: add a check-in call with Luca on Monday at 9 AM
+AI: Done! I've added a check-in call with Luca for Monday at 9:00 AM.
+
+USER: remove Tuesday's gym session
+AI: Got it! Tuesday's gym session has been removed.
+
+USER: add a machine learning workshop on Saturday morning
+AI: Perfect! I've added the machine learning workshop for Saturday morning.
+
+USER: I finished the report
+AI: Great! I've marked the report as completed.
+
+USER: add a retrospective meeting on Friday at 4 PM
+AI: Done! The retrospective meeting has been added for Friday at 4:00 PM.
+
+USER: when is the next birthday on my calendar?
+AI: Let me check your upcoming birthdays!
+
+USER: add a reminder to back up my PC every Sunday at 10 PM
+AI: Sure! I'll remind you to back up your PC every Sunday at 10:00 PM.
+
+USER: change the dentist time from 4:30 PM to 5 PM
+AI: Done! Your dentist appointment has been moved to 5:00 PM.
+
+USER: add a cooking class on Saturday at 10 AM
+AI: Fun! I've added a cooking class for Saturday at 10:00 AM.
+
+USER: I have a university exam on May 15th at 9 AM
+AI: Got it! I've added your university exam on May 15th at 9:00 AM as high priority.
+
+USER: how many appointments do I have this month?
+AI: Let me count your appointments for this month!
+
+USER: add house cleaning every Saturday morning
+AI: Done! House cleaning has been added every Saturday morning.
+
+USER: remove tomorrow's standup
+AI: Done! Tomorrow's standup has been removed.
+
+USER: add an international conference call on Thursday at 6 PM
+AI: Got it! I've scheduled the international conference call for Thursday at 6:00 PM.
+
+USER: what haven't I completed this week?
+AI: Here are your pending tasks for this week!
+
+USER: add a client presentation on Monday at 2:30 PM, high priority
+AI: Sure! I've added the client presentation for Monday at 2:30 PM with high priority.
+
+USER: delete all completed appointments
+AI: Are you sure you want to delete all completed appointments? Confirm and I'll clean them up.
+
+USER: add meditation every morning at 7 AM
+AI: Love it! I've added a daily meditation session every morning at 7:00 AM.
+
+USER: I have a tax deadline on June 30th
+AI: Important! I've added your tax deadline on June 30th as critical priority.
+
+USER: show me only this week's meetings
+AI: Here are all your meetings for this week!
+
+USER: block tomorrow from 9 AM to 12 PM for deep work
+AI: Done! I've blocked tomorrow from 9:00 AM to 12:00 PM for deep work.
+
+USER: add family dinner on Saturday at 8 PM
+AI: Lovely! I've added the family dinner for Saturday at 8:00 PM.
+
+USER: show me everything I have next month
+AI: Here's your full schedule for next month!
+
+USER: add weekly alignment call with PM every Friday at 4 PM
+AI: Done! I've added the weekly alignment call with your PM every Friday at 4:00 PM.
+
+USER: delete all next month's reminders
+AI: Are you sure you want to remove all reminders for next month? Confirm and I'll delete them.
+
+USER: add a company training day on Wednesday, all day
+AI: Got it! I've blocked the full day on Wednesday for company training.
+
+USER: add a weekly personal review every Sunday evening at 8 PM
+AI: Great habit! I've added a weekly personal review every Sunday at 8:00 PM.
+
+USER: add an HR alignment meeting on Monday at 10 AM
+AI: Done! I've scheduled the HR alignment meeting for Monday at 10:00 AM.
+
+USER: I'm done with everything today
+AI: Amazing! Do you want me to mark all today's appointments as completed?
+
+USER: add a sprint planning every two weeks on Monday at 10 AM
+AI: Done! Sprint planning has been added every two weeks on Monday at 10:00 AM.
+
+USER: mark tomorrow's meeting as urgent
+AI: Got it! Tomorrow's meeting has been flagged as high priority.
+
+USER: add email check every weekday at 8:30 AM
+AI: Sure! I've added a daily email check every weekday at 8:30 AM.
+
+USER: show me all recurring appointments
+AI: Here are all your recurring appointments!
+
+USER: add a video call with the US team on Thursday at 6 PM
+AI: Done! I've scheduled the video call with the US team for Thursday at 6:00 PM.
+
+USER: add evening reading every day at 10 PM
+AI: Great routine! I've added evening reading every day at 10:00 PM.
+
+USER: change the location of Monday's meeting to conference room B
+AI: Done! Monday's meeting location has been updated to conference room B.
+
+USER: add a year-end company meeting on December 20th
+AI: Got it! I've added the year-end company meeting on December 20th.
+
+USER: I have a product demo on Friday at 3 PM
+AI: Nice! I've added the product demo for Friday at 3:00 PM with high priority.
+
+USER: remove tomorrow's deep work block
+AI: Done! Tomorrow's deep work block has been removed.
+
+USER: add an appointment with the nutritionist on Tuesday at 1 PM
+AI: Sure! I've added your nutritionist appointment for Tuesday at 1:00 PM.
+
+USER: I completed the code review
+AI: Well done! The code review has been marked as completed.
+
+USER: what do I have on the weekend?
+AI: Here's what you have planned for the weekend!
+
+USER: add a reminder to renew my subscription on January 1st every year
+AI: Done! I'll remind you to renew your subscription every January 1st.
+
+USER: what are my appointments in the next 2 hours?
+AI: Let me check what's coming up in the next two hours!
+
+USER: add a kick-off meeting for project Beta on Tuesday at 11 AM
+AI: Done! The project Beta kick-off meeting has been added for Tuesday at 11:00 AM.
+
+USER: I finished today's yoga
+AI: Great work! Today's yoga session has been marked as done.
+
+USER: add a hairdresser appointment on Thursday at 5:30 PM
+AI: Done! Your hairdresser appointment is set for Thursday at 5:30 PM.
+
+USER: which day am I most free this week?
+AI: Let me analyze your schedule and find your freest day this week!
+
+USER: add Q1 results presentation on April 2nd at 10 AM
+AI: Got it! I've added the Q1 results presentation for April 2nd at 10:00 AM with high priority.
+
+USER: postpone the call with Luca by one day
+AI: Done! The call with Luca has been moved one day forward.
+
+USER: add a brainstorming session on Wednesday afternoon
+AI: Sure! I've added a brainstorming session for Wednesday afternoon.
+
+USER: what do I have tomorrow morning?
+AI: Here are your appointments for tomorrow morning!
+
+USER: add a grocery reminder every Saturday at 10 AM
+AI: Done! I'll remind you about groceries every Saturday at 10:00 AM.
+
+USER: delete the cooking class
+AI: Done! The cooking class has been removed from your calendar.
+
+USER: add a software testing session on Friday from 2 PM to 4 PM
+AI: Perfect! I've blocked Friday from 2:00 PM to 4:00 PM for software testing.
+
+USER: add a check-in with myself every Sunday at 8 PM
+AI: Great idea! I've added a personal check-in every Sunday at 8:00 PM.
+
+USER: delete duplicate appointments
+AI: Sure! Let me find and remove any duplicate appointments for you. Please confirm to proceed.
+
+USER: I finished everything for today
+AI: Awesome! I've marked all today's appointments as completed. Great day!
+
+USER: do I have any free time this afternoon?
+AI: Let me check your afternoon schedule right now!
+
+USER: add a team lunch on Friday at 1 PM
+AI: Fun! I've added the team lunch for Friday at 1:00 PM.
+
+USER: remind me to water the plants every Sunday at 9 AM
+AI: Done! I'll remind you to water the plants every Sunday at 9:00 AM.
+
+USER: how busy am I next week?
+AI: Let me give you an overview of next week's workload!
+
+USER: add a one-on-one with my manager every Thursday at 3 PM
+AI: Sure! I've added a weekly one-on-one with your manager every Thursday at 3:00 PM.
+
+USER: what meetings do I have tomorrow?
+AI: Here are all your meetings scheduled for tomorrow!
+
+USER: cancel Friday's presentation
+AI: Done! The presentation on Friday has been cancelled.
+
+USER: add a mindfulness session every day at 7:30 AM
+AI: Love it! I've added a daily mindfulness session at 7:30 AM.
+
+USER: move next Monday's meeting to next Wednesday
+AI: Done! The meeting has been moved from next Monday to next Wednesday.
+
+USER: do I have anything on Sunday?
+AI: Let me check your Sunday schedule for you!
+
+USER: add a photography course every Saturday at 11 AM
+AI: Fun! I've added your photography course every Saturday at 11:00 AM.
+
+USER: I'm done with the client presentation
+AI: Well done! The client presentation has been marked as completed.
+
+USER: add a quarterly business review on the last Friday of the month
+AI: Done! I've added the quarterly business review on the last Friday of the month.
+
+USER: what's the most important thing I have this week?
+AI: Let me find your highest priority appointment for this week!
+
+USER: remind me to call the bank tomorrow at 9 AM
+AI: Got it! I'll remind you to call the bank tomorrow at 9:00 AM.
+
+USER: add a study session every weekday from 7 PM to 9 PM
+AI: Perfect! I've added a study session every weekday from 7:00 PM to 9:00 PM.
+
+USER: delete all low priority appointments this week
+AI: Are you sure you want to remove all low priority appointments this week? Confirm and I'll take care of it.
+
+USER: add a product roadmap review on the first Monday of every month at 10 AM
+AI: Done! The product roadmap review has been set for the first Monday of every month at 10:00 AM.
+
+USER: I finished the software testing
+AI: Nice! The software testing session has been marked as completed.
+
+USER: add a weekend trip to the mountains on Sunday, all day
+AI: Sounds amazing! I've added your mountain trip for all day Sunday.
+
+USER: how many meetings do I have this month?
+AI: Let me count your meetings for this month!
+
+USER: add a reminder to submit my timesheet every Friday at 4 PM
+AI: Done! I'll remind you to submit your timesheet every Friday at 4:00 PM.
+
+USER: what do I still need to do today?
+AI: Here are your pending tasks for today!
+
+USER: add a language exchange session every Tuesday at 7 PM
+AI: Great habit! I've added your language exchange session every Tuesday at 7:00 PM.
+
+USER: cancel all my appointments next Monday
+AI: Are you sure you want to cancel all appointments next Monday? Confirm and I'll remove them.
+
+USER: add a startup networking event on Thursday evening
+AI: Done! I've added the startup networking event for Thursday evening.
+
+USER: I completed the brainstorming session
+AI: Great! The brainstorming session has been marked as done.
+
+USER: add a daily journal entry reminder every night at 9 PM
+AI: Perfect! I'll remind you to write in your journal every night at 9:00 PM.
+
+USER: show me all my deadlines this month
+AI: Here are all your deadlines for this month!
+
+USER: add a fitness assessment on the first Saturday of every month at 8 AM
+AI: Done! I've set a fitness assessment for the first Saturday of every month at 8:00 AM.
