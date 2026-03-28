@@ -71,27 +71,37 @@ These libraries come bundled with Python:
 ## 🧩 How to Install Them
 
 ### 🟦 Windows
+
 ```bash
-pip install torch
-pip install matplotlib
 python -m venv venv
 venv\Scripts\activate
 ```
 
+```bash
+pip install torch
+pip install matplotlib
+```
+
 ### 🍏 macOS
 ```bash
-pip3 install torch
-pip3 install matplotlib
 python3 -m venv venv
 source venv/bin/activate
 ```
 
-### 🐧 Linux
 ```bash
 pip3 install torch
 pip3 install matplotlib
+```
+
+### 🐧 Linux
+```bash
 python3 -m venv venv
 source venv/bin/activate
+```
+
+```bash
+pip3 install torch
+pip3 install matplotlib
 ```
 
 ---
