@@ -112,6 +112,7 @@ pip3 install matplotlib
 - Run every installation step from your terminal or the integrated terminal in your code editor (e.g. Visual Studio Code).
 - This project is in early alpha with a limited dataset and experimental behavior — recommended only for users comfortable with errors, dependencies, and manual setup.
 - If you are an advanced user, feel free to test, modify, and improve the project — every contribution helps Eisi grow.
+- It is highly recommended to download the project, open it in an editor, and install the libraries.
 
 ---
 
