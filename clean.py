@@ -26,7 +26,7 @@ def clean_dataset(text):
 if __name__ == "__main__":
     print("🔍 Leggo il dataset originale...")
 
-    with open("data/dataset_raw.txt", "r", encoding="utf-8") as f:
+    with open("data/dataset_dialogo.txt", "r", encoding="utf-8") as f:
         text = f.read()
 
     print("🧼 Pulizia in corso...")

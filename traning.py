@@ -1,5 +1,6 @@
 import torch
 import torch.nn as nn
+import random
 import matplotlib.pyplot as plt
 
 # ============================================================
@@ -61,14 +62,22 @@ class GPT(nn.Module):
         return self.head(x)
 
     @torch.no_grad()
-    def generate(self, idx, max_new_tokens=40, temperature=0.8):
+    def generate(self, idx, vocab, max_new_tokens=40, temperature=0.8):
         for _ in range(max_new_tokens):
-            idx_cond = idx[:, -self.config.context_length:]
-            logits = self(idx_cond)
+
+            # 🔥 TAGLIO AUTOMATICO DEL CONTESTO
+            idx = idx[:, -self.config.context_length:]
+
+            logits = self(idx)
             logits = logits[:, -1, :] / temperature
             probs = torch.softmax(logits, dim=-1)
             next_token = torch.multinomial(probs, 1)
             idx = torch.cat([idx, next_token], dim=1)
+
+            # Stop quando inizia una nuova domanda
+            if next_token.item() == vocab.get("Domanda:", vocab["<UNK>"]):
+                break
+
         return idx
 
 # ============================================================
@@ -76,31 +85,53 @@ class GPT(nn.Module):
 # ============================================================
 
 def build_vocab(text):
+    # token base
+    base_tokens = ["<PAD>", "<UNK>", "Domanda:", "Risposta:"]
+
+    # token dal testo
     words = list(set(text.split()))
-    vocab = {w: i for i, w in enumerate(words)}
-    vocab["<UNK>"] = len(vocab)
+
+    # rimuovi eventuali duplicati dei base_tokens
+    words = [w for w in words if w not in base_tokens]
+
+    # vocabolario finale
+    all_tokens = base_tokens + words
+
+    vocab = {w: i for i, w in enumerate(all_tokens)}
     return vocab
 
+
 def encode(text, vocab):
-    return [vocab.get(w, vocab["<UNK>"]) for w in text.split()]
+    unk = vocab["<UNK>"]
+    return [vocab.get(w, unk) for w in text.split()]
+
 
 def decode(tokens, inv_vocab):
     return " ".join(inv_vocab[t] for t in tokens if t in inv_vocab)
 
 # ============================================================
-# TRAINING
+# BATCH AUTOREGRESSIVO (GPT VERO)
 # ============================================================
 
 def get_batch(data, batch_size, ctx, device):
     ix = torch.randint(0, len(data) - ctx - 1, (batch_size,))
     x = torch.stack([torch.tensor(data[i:i+ctx]) for i in ix])
-    y = torch.stack([torch.tensor(data[i+1:i+1+ctx]) for i in ix])
+    y = torch.stack([torch.tensor(data[i+1:i+ctx+1]) for i in ix])
     return x.to(device), y.to(device)
+
+# ============================================================
+# TRAINING
+# ============================================================
 
 def train_model(dataset_path="data/dataset_dialogo.txt"):
     device = "cuda" if torch.cuda.is_available() else "cpu"
 
     raw = open(dataset_path, "r", encoding="utf-8").read()
+    raw = raw.lstrip("\ufeff")  # rimuove BOM invisibile
+
+    if "Domanda:" not in raw:
+        raise ValueError("Il dataset non contiene 'Domanda:'")
+
     vocab = build_vocab(raw)
     inv_vocab = {i: w for w, i in vocab.items()}
     tokens = encode(raw, vocab)
@@ -120,18 +151,30 @@ def train_model(dataset_path="data/dataset_dialogo.txt"):
         total = 0
         for s in range(steps):
             x, y = get_batch(tokens, batch_size, config.context_length, device)
-            opt.zero_grad()
+
             logits = model(x)
-            loss = loss_fn(logits.view(-1, config.vocab_size), y.view(-1))
+
+            logits = logits.reshape(-1, config.vocab_size)
+            y = y.reshape(-1)
+
+            loss = loss_fn(logits, y)
+
+            opt.zero_grad()
             loss.backward()
             opt.step()
+
             total += loss.item()
 
         avg = total / steps
         losses.append(avg)
         print(f"Epoch {e+1}/{epochs} Loss: {avg:.4f}")
 
-    torch.save({"model": model.state_dict(), "vocab": vocab, "config": config.__dict__}, "gpt_model.pth")
+    torch.save({
+        "model": model.state_dict(),
+        "vocab": vocab,
+        "config": config.__dict__
+    }, "gpt_model.pth")
+
     print("Modello salvato in gpt_model.pth")
 
     plt.plot(losses)
@@ -148,18 +191,19 @@ def chat(model, vocab, inv_vocab, config):
 
     while True:
         user = input("Tu: ").strip()
-        prompt = f"USER: {user}\nASSISTANT:"
+        prompt = f"Domanda: {user}\nRisposta:"
+
         ids = encode(prompt, vocab)
+
+        # 🔥 TAGLIO AUTOMATICO DEL CONTESTO
+        ids = ids[-config.context_length:]
+
         x = torch.tensor([ids], dtype=torch.long)
 
-        out = model.generate(x, 40)
+        out = model.generate(x, vocab, 40)
         out = out[0].tolist()
+
         reply = decode(out[len(ids):], inv_vocab)
-
-        # 🔥 BLOCCO CHE RISOLVE IL TUO PROBLEMA
-        if "USER:" in reply:
-            reply = reply.split("USER:")[0].strip()
-
         print("IA:", reply)
 
 # ============================================================
@@ -167,5 +211,8 @@ def chat(model, vocab, inv_vocab, config):
 # ============================================================
 
 if __name__ == "__main__":
-    model, vocab, inv_vocab, config = train_model("data/dataset_dialogo.txt")
-    chat(model, vocab, inv_vocab, config)
+    try:
+        model, vocab, inv_vocab, config = train_model("data/dataset_dialogo.txt")
+        chat(model, vocab, inv_vocab, config)
+    except Exception as e:
+        print(f"Si è verificato un errore: {e}")
