@@ -107,6 +107,21 @@ pip3 install matplotlib
 
 ---
 
+then:
+for windows:
+```
+python traning.py
+```
+
+for mac:
+```
+python3 traning.py
+```
+
+for linux:
+```
+python3 traning.py
+```
 ## 🧨 Final Notes
 
 - Install all modules and libraries listed above without exceptions.
