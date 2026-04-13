@@ -130,6 +130,9 @@ python3 traning.py
 - Advanced users are welcome to test, modify, and improve the project — every contribution helps Eisi grow.
 - It is highly recommended to download the project, open it in an editor, and install the required libraries.
 
+- I recommend checking out my new browser — right now it’s only available for macOS, but versions for Windows and Linux are coming soon.
+And very soon my videogame will be released as well, so once it’s out I definitely suggest giving it a look.
+
 ---
 
 ## 📄 License
